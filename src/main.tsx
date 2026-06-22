@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { useEffect, useMemo, useState, type ReactElement } from "react";
-import { ArrowDown, ArrowUp, ExternalLink, Filter, Search, Twitter } from "lucide-react";
+import { ArrowDown, ArrowUp, BarChart3, ExternalLink, Filter, Search, Twitter, UsersRound } from "lucide-react";
 import "./styles.css";
 
 type Summary = {
@@ -101,6 +101,18 @@ function rankDelta(delta: number | null): ReactElement {
   );
 }
 
+function formatDateTime(value: string): string {
+  if (!value) return "-";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(date);
+}
+
 function App() {
   const summary = useJson<Summary>("data/derived/summary.json", {
     generatedAt: "",
@@ -144,15 +156,36 @@ function App() {
     .sort((a, b) => b[1] - a[1])
     .slice(0, 12);
 
+  const totalTags = Object.keys(tagIndex).length;
+  const selectedLabel = selectedLeaderboard
+    ? `${selectedLeaderboard.query.category} / ${selectedLeaderboard.query.timePeriod} / ${selectedLeaderboard.query.orderBy}`
+    : "No leaderboard selected";
+
   return (
     <main>
+      <header className="topbar" aria-label="Page summary">
+        <a className="brand" href="/">
+          <BarChart3 size={20} aria-hidden="true" />
+          <span>Polymarket Leaderboard X</span>
+        </a>
+        <div className="statusLine">
+          <span>{summary.snapshotDates.length} snapshot days</span>
+          <span>Updated {formatDateTime(summary.generatedAt)}</span>
+        </div>
+      </header>
+
       <section className="hero">
-        <div>
+        <div className="heroCopy">
           <p className="eyebrow">Polymarket leaderboard intelligence</p>
           <h1>X-linked trader tracker</h1>
           <p className="subtle">
             Daily snapshots across every documented category, time period, ordering mode, and pagination window.
           </p>
+          <div className="heroBadges" aria-label="Dataset coverage">
+            <span>{formatNumber(summary.traderCount)} total traders</span>
+            <span>{formatNumber(totalTags)} behavioral tags</span>
+            <span>{formatNumber(summary.latestLeaderboardCount)} latest boards</span>
+          </div>
         </div>
         <div className="stats">
           <Metric label="Latest snapshot" value={summary.latestDate ?? "No data"} />
@@ -162,22 +195,38 @@ function App() {
         </div>
       </section>
 
-      <section className="toolbar">
-        <label className="search">
-          <Search size={18} />
-          <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search wallet, X, username, tag" />
-        </label>
-        <label className="selectWrap">
-          <Filter size={18} />
-          <select value={tag} onChange={(event) => setTag(event.target.value)}>
-            <option value="all">All tags</option>
-            {topTags.map(([tagName, count]) => (
-              <option key={tagName} value={tagName}>
-                {tagName} ({count})
-              </option>
-            ))}
-          </select>
-        </label>
+      <section className="toolbar" aria-label="Trader filters">
+        <div className="fieldGroup searchGroup">
+          <label htmlFor="trader-search">Search traders</label>
+          <div className="control">
+            <Search size={18} aria-hidden="true" />
+            <input
+              id="trader-search"
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder="Wallet, X handle, username, or tag"
+            />
+          </div>
+        </div>
+        <div className="fieldGroup">
+          <label htmlFor="tag-filter">Tag filter</label>
+          <div className="control">
+            <Filter size={18} aria-hidden="true" />
+            <select id="tag-filter" value={tag} onChange={(event) => setTag(event.target.value)}>
+              <option value="all">All tags</option>
+              {topTags.map(([tagName, count]) => (
+                <option key={tagName} value={tagName}>
+                  {tagName} ({count})
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+        <div className="resultPill" aria-live="polite">
+          <UsersRound size={17} aria-hidden="true" />
+          <strong>{formatNumber(filteredTraders.length)}</strong>
+          <span>matching traders</span>
+        </div>
       </section>
 
       <section className="grid">
@@ -185,8 +234,9 @@ function App() {
           <div className="panelHeader">
             <div>
               <h2>X-linked wallets</h2>
-              <p>{filteredTraders.length} visible traders</p>
+              <p>Rank movement, identity links, and recurring signal tags</p>
             </div>
+            <span className="panelCount">{formatNumber(Math.min(filteredTraders.length, 200))} shown</span>
           </div>
           <div className="tableWrap">
             <table>
@@ -197,6 +247,7 @@ function App() {
                   <th>Best</th>
                   <th>Change</th>
                   <th>Seen</th>
+                  <th>Top 10</th>
                   <th>Tags</th>
                 </tr>
               </thead>
@@ -220,12 +271,13 @@ function App() {
                           <Twitter size={15} />@{trader.xUsername}
                         </a>
                       ) : (
-                        "-"
+                        <span className="muted">-</span>
                       )}
                     </td>
                     <td>#{trader.bestRankAllTime ?? "-"}</td>
                     <td>{rankDelta(trader.rankChange)}</td>
                     <td>{trader.daysSeen}d</td>
+                    <td>{formatNumber(trader.top10Count)}</td>
                     <td>
                       <div className="tags">
                         {trader.tags.slice(0, 4).map((item) => (
@@ -244,16 +296,20 @@ function App() {
           <div className="panelHeader">
             <div>
               <h2>Latest leaderboard</h2>
-              <p>{selectedLeaderboard?.snapshotDate ?? "No snapshot"}</p>
+              <p>{selectedLeaderboard?.snapshotDate ?? "No snapshot"} snapshot</p>
             </div>
           </div>
-          <select className="fullSelect" value={selectedLeaderboard?.key ?? ""} onChange={(event) => setLeaderboardKey(event.target.value)}>
-            {latestLeaderboards.map((leaderboard) => (
-              <option key={leaderboard.key} value={leaderboard.key}>
-                {leaderboard.query.category} / {leaderboard.query.timePeriod} / {leaderboard.query.orderBy}
-              </option>
-            ))}
-          </select>
+          <div className="leaderboardPicker">
+            <label htmlFor="leaderboard-select">Leaderboard slice</label>
+            <select id="leaderboard-select" className="fullSelect" value={selectedLeaderboard?.key ?? ""} onChange={(event) => setLeaderboardKey(event.target.value)}>
+              {latestLeaderboards.map((leaderboard) => (
+                <option key={leaderboard.key} value={leaderboard.key}>
+                  {leaderboard.query.category} / {leaderboard.query.timePeriod} / {leaderboard.query.orderBy}
+                </option>
+              ))}
+            </select>
+            <p>{selectedLabel}</p>
+          </div>
           <div className="leaderRows">
             {(selectedLeaderboard?.rows ?? []).slice(0, 25).map((row) => (
               <a className="leaderRow" key={`${row.proxyWallet}-${row.rank}`} href={`https://polymarket.com/profile/${row.proxyWallet}`} target="_blank" rel="noreferrer">
