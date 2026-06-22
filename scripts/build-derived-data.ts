@@ -58,6 +58,7 @@ type TraderSummary = {
   categories: string[];
   timePeriods: string[];
   orderBy: string[];
+  leaderboards: string[];
   tags: string[];
 };
 
@@ -134,6 +135,10 @@ function latestValue<T>(observations: Observation[], selector: (item: Observatio
 
 function uniqueSorted(values: Array<string | null | undefined>): string[] {
   return [...new Set(values.filter((value): value is string => Boolean(value)))].sort();
+}
+
+function leaderboardLabel(query: LeaderboardQuery): string {
+  return `${query.category} / ${query.timePeriod} / ${query.orderBy}`;
 }
 
 function buildTags(summary: Omit<TraderSummary, "tags">, observations: Observation[]): string[] {
@@ -225,6 +230,7 @@ async function main(): Promise<void> {
       categories: uniqueSorted(items.map((item) => item.query.category)),
       timePeriods: uniqueSorted(items.map((item) => item.query.timePeriod)),
       orderBy: uniqueSorted(items.map((item) => item.query.orderBy)),
+      leaderboards: uniqueSorted(items.map((item) => leaderboardLabel(item.query))),
     };
     return {
       ...partial,

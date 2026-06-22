@@ -1,8 +1,10 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { useEffect, useMemo, useState, type ReactElement } from "react";
-import { ArrowDown, ArrowUp, BarChart3, ExternalLink, Filter, Search, Twitter, UsersRound } from "lucide-react";
+import { ArrowDown, ArrowUp, BarChart3, ChevronLeft, ChevronRight, ExternalLink, Filter, Search, UsersRound } from "lucide-react";
 import "./styles.css";
+
+const TRADERS_PER_PAGE = 200;
 
 type Summary = {
   generatedAt: string;
@@ -38,6 +40,7 @@ type Trader = {
   categories: string[];
   timePeriods: string[];
   orderBy: string[];
+  leaderboards?: string[];
   tags: string[];
 };
 
@@ -113,6 +116,19 @@ function formatDateTime(value: string): string {
   }).format(date);
 }
 
+function sourceLabels(trader: Trader): string[] {
+  if (trader.leaderboards?.length) return trader.leaderboards;
+  const labels = new Set<string>();
+  for (const category of trader.categories) {
+    for (const timePeriod of trader.timePeriods) {
+      for (const orderBy of trader.orderBy) {
+        labels.add(`${category} / ${timePeriod} / ${orderBy}`);
+      }
+    }
+  }
+  return [...labels].sort();
+}
+
 function App() {
   const summary = useJson<Summary>("data/derived/summary.json", {
     generatedAt: "",
@@ -132,6 +148,7 @@ function App() {
   const [query, setQuery] = useState("");
   const [tag, setTag] = useState("all");
   const [leaderboardKey, setLeaderboardKey] = useState("");
+  const [traderPage, setTraderPage] = useState(1);
 
   const selectedLeaderboard = useMemo(() => {
     if (!latestLeaderboards.length) return null;
@@ -151,6 +168,21 @@ function App() {
       return matchesTag && matchesQuery;
     });
   }, [query, tag, traders]);
+
+  useEffect(() => {
+    setTraderPage(1);
+  }, [query, tag]);
+
+  const traderPageCount = Math.max(1, Math.ceil(filteredTraders.length / TRADERS_PER_PAGE));
+
+  useEffect(() => {
+    setTraderPage((page) => Math.min(page, traderPageCount));
+  }, [traderPageCount]);
+
+  const traderPageStart = (traderPage - 1) * TRADERS_PER_PAGE;
+  const visibleTraders = filteredTraders.slice(traderPageStart, traderPageStart + TRADERS_PER_PAGE);
+  const traderDisplayStart = filteredTraders.length === 0 ? 0 : traderPageStart + 1;
+  const traderPageEnd = traderPageStart + visibleTraders.length;
 
   const topTags = Object.entries(tagIndex)
     .sort((a, b) => b[1] - a[1])
@@ -236,7 +268,9 @@ function App() {
               <h2>X-linked wallets</h2>
               <p>Rank movement, identity links, and recurring signal tags</p>
             </div>
-            <span className="panelCount">{formatNumber(Math.min(filteredTraders.length, 200))} shown</span>
+            <span className="panelCount">
+              {formatNumber(visibleTraders.length)} of {formatNumber(filteredTraders.length)}
+            </span>
           </div>
           <div className="tableWrap">
             <table>
@@ -248,48 +282,78 @@ function App() {
                   <th>Change</th>
                   <th>Seen</th>
                   <th>Top 10</th>
+                  <th>Source</th>
                   <th>Tags</th>
                 </tr>
               </thead>
               <tbody>
-                {filteredTraders.slice(0, 200).map((trader) => (
-                  <tr key={trader.wallet}>
-                    <td>
-                      <div className="identity">
-                        {trader.profileImage ? <img src={trader.profileImage} alt="" /> : <div className="avatar">{(trader.userName ?? "?").slice(0, 1)}</div>}
-                        <div>
-                          <strong>{trader.userName ?? trader.profileName ?? "Unnamed"}</strong>
-                          <a href={`https://polymarket.com/profile/${trader.wallet}`} target="_blank" rel="noreferrer">
-                            {shortWallet(trader.wallet)}
-                          </a>
+                {visibleTraders.map((trader) => {
+                  const sources = sourceLabels(trader);
+                  return (
+                    <tr key={trader.wallet}>
+                      <td>
+                        <div className="identity">
+                          {trader.profileImage ? <img src={trader.profileImage} alt="" /> : <div className="avatar">{(trader.userName ?? "?").slice(0, 1)}</div>}
+                          <div>
+                            <strong>{trader.userName ?? trader.profileName ?? "Unnamed"}</strong>
+                            <a href={`https://polymarket.com/profile/${trader.wallet}`} target="_blank" rel="noreferrer">
+                              {shortWallet(trader.wallet)}
+                            </a>
+                          </div>
                         </div>
-                      </div>
-                    </td>
-                    <td>
-                      {trader.xUsername ? (
-                        <a className="xLink" href={`https://x.com/${trader.xUsername}`} target="_blank" rel="noreferrer">
-                          <Twitter size={15} />@{trader.xUsername}
-                        </a>
-                      ) : (
-                        <span className="muted">-</span>
-                      )}
-                    </td>
-                    <td>#{trader.bestRankAllTime ?? "-"}</td>
-                    <td>{rankDelta(trader.rankChange)}</td>
-                    <td>{trader.daysSeen}d</td>
-                    <td>{formatNumber(trader.top10Count)}</td>
-                    <td>
-                      <div className="tags">
-                        {trader.tags.slice(0, 4).map((item) => (
-                          <span key={item}>{item}</span>
-                        ))}
-                      </div>
-                    </td>
-                  </tr>
-                ))}
+                      </td>
+                      <td>
+                        {trader.xUsername ? (
+                          <a className="xLink" href={`https://x.com/${trader.xUsername}`} target="_blank" rel="noreferrer">
+                            <span className="xMark" aria-hidden="true">X</span>@{trader.xUsername}
+                          </a>
+                        ) : (
+                          <span className="muted">-</span>
+                        )}
+                      </td>
+                      <td>#{trader.bestRankAllTime ?? "-"}</td>
+                      <td>{rankDelta(trader.rankChange)}</td>
+                      <td>{trader.daysSeen}d</td>
+                      <td>{formatNumber(trader.top10Count)}</td>
+                      <td>
+                        <div className="sources" title={sources.join("\n")}>
+                          {sources.slice(0, 2).map((item) => (
+                            <span key={item}>{item}</span>
+                          ))}
+                          {sources.length > 2 ? <em>+{sources.length - 2}</em> : null}
+                        </div>
+                      </td>
+                      <td>
+                        <div className="tags">
+                          {trader.tags.slice(0, 4).map((item) => (
+                            <span key={item}>{item}</span>
+                          ))}
+                        </div>
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
+          <nav className="pagination" aria-label="X-linked wallet pages">
+            <p aria-live="polite">
+              Showing {formatNumber(traderDisplayStart)}-{formatNumber(traderPageEnd)} of {formatNumber(filteredTraders.length)}
+            </p>
+            <div className="paginationControls">
+              <button type="button" onClick={() => setTraderPage((page) => Math.max(1, page - 1))} disabled={traderPage === 1}>
+                <ChevronLeft size={16} aria-hidden="true" />
+                Previous
+              </button>
+              <span>
+                Page {formatNumber(traderPage)} / {formatNumber(traderPageCount)}
+              </span>
+              <button type="button" onClick={() => setTraderPage((page) => Math.min(traderPageCount, page + 1))} disabled={traderPage === traderPageCount}>
+                Next
+                <ChevronRight size={16} aria-hidden="true" />
+              </button>
+            </div>
+          </nav>
         </div>
 
         <div className="panel">

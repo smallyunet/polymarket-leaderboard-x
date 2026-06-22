@@ -266,6 +266,14 @@ select {
   cursor: pointer;
 }
 
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
 .resultPill {
   justify-content: center;
   gap: 7px;
@@ -346,7 +354,7 @@ select {
 
 table {
   width: 100%;
-  min-width: 920px;
+  min-width: 1120px;
   border-collapse: collapse;
   font-size: 14px;
 }
@@ -447,6 +455,17 @@ tbody tr:hover {
   font-weight: 700;
 }
 
+.xMark {
+  display: inline-grid;
+  width: 15px;
+  height: 15px;
+  place-items: center;
+  color: currentColor;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1;
+}
+
 .delta {
   min-width: 54px;
   font-weight: 800;
@@ -460,14 +479,17 @@ tbody tr:hover {
   color: var(--red);
 }
 
-.tags {
+.tags,
+.sources {
   display: flex;
   max-width: 360px;
   gap: 6px;
   flex-wrap: wrap;
 }
 
-.tags span {
+.tags span,
+.sources span,
+.sources em {
   max-width: 160px;
   overflow: hidden;
   padding: 4px 7px;
@@ -478,6 +500,86 @@ tbody tr:hover {
   font-size: 11px;
   font-weight: 800;
   text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sources {
+  max-width: 300px;
+}
+
+.sources span {
+  background: #eef6ff;
+  color: #1f4f86;
+}
+
+.sources em {
+  border-color: #bfdbfe;
+  background: var(--blue-soft);
+  color: #173a7a;
+  font-style: normal;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 13px 18px;
+  border-top: 1px solid var(--line);
+  background: #fbfdff;
+}
+
+.pagination p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.paginationControls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.paginationControls button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  gap: 6px;
+  padding: 0 11px;
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 800;
+  transition:
+    border-color 180ms ease,
+    background-color 180ms ease,
+    color 180ms ease;
+}
+
+.paginationControls button:hover:not(:disabled) {
+  border-color: #bfdbfe;
+  background: #f2f7ff;
+  color: var(--blue);
+}
+
+.paginationControls button:focus-visible {
+  outline: 0;
+  box-shadow: 0 0 0 4px rgba(30, 64, 175, 0.12);
+}
+
+.paginationControls button:disabled {
+  opacity: 0.45;
+}
+
+.paginationControls span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
   white-space: nowrap;
 }
 
@@ -653,6 +755,15 @@ tbody tr:hover {
 
   .panelHeader {
     flex-direction: column;
+  }
+
+  .pagination {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .paginationControls {
+    justify-content: space-between;
   }
 
   .leaderRow {
