@@ -1710,9 +1710,10 @@
     }
   },
   "0x335130d21de5bee3e4cf38dd4d6dc0df4da44e2d": {
-    "fetchedAt": "2026-07-06T04:48:19.961Z",
+    "fetchedAt": "2026-07-19T04:28:48.400Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-02T03:41:52.158746Z",
       "proxyWallet": "0x335130d21de5bee3e4cf38dd4d6dc0df4da44e2d",
       "displayUsernamePublic": true,
@@ -1728,9 +1729,9 @@
       ],
       "xUsername": "wisji177086",
       "verifiedBadge": false,
-      "takerTier": 2,
-      "takerTierName": "Silver",
-      "weightedVolume": 23525.352485
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 18322.200891
     }
   },
   "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294": {
@@ -2469,9 +2470,10 @@
     }
   },
   "0x86a6bcd9a1d302ef258475cf66e50f8e62e01b3e": {
-    "fetchedAt": "2026-07-11T04:25:23.137Z",
+    "fetchedAt": "2026-07-19T04:28:47.805Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-02-22T11:18:24.258094Z",
       "proxyWallet": "0x86a6bcd9a1d302ef258475cf66e50f8e62e01b3e",
       "displayUsernamePublic": true,
@@ -2489,7 +2491,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 51865.148688
+      "weightedVolume": 50805.329658
     }
   },
   "0xa0fd5db7b35e528d0dba7ad0cc97f6bace28237c": {
@@ -6911,9 +6913,10 @@
     }
   },
   "0x10e11caeb43aada2ddb56f3823297a5dfcc7aa05": {
-    "fetchedAt": "2026-07-09T04:38:31.133Z",
+    "fetchedAt": "2026-07-19T04:28:49.823Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-24T17:00:00.603682Z",
       "proxyWallet": "0x10e11caeb43aada2ddb56f3823297a5dfcc7aa05",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7633928-0e755db6-4c25-4098-a4a2-24f62df86c66.png",
@@ -6932,7 +6935,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 7099.553982
+      "weightedVolume": 5181.978912
     }
   },
   "0x581d24e58039e1f569dacde9c288e028b51f2b06": {
@@ -12554,9 +12557,10 @@
     }
   },
   "0x67473ba8de86dca76538ef198d99e63c185aa64f": {
-    "fetchedAt": "2026-07-11T04:25:22.854Z",
+    "fetchedAt": "2026-07-19T04:28:47.545Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-10-17T01:35:39.237657Z",
       "proxyWallet": "0x67473ba8de86dca76538ef198d99e63c185aa64f",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-924441-1c0de54f-631b-4e2c-b083-7dacb55b9b2f.jpeg",
@@ -12576,7 +12580,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2878.769338
+      "weightedVolume": 2908.543278
     }
   },
   "0xfcbecc7e5186e88e03445b81f593685d62828f44": {
@@ -16244,9 +16248,10 @@
     }
   },
   "0xea39e4c0aace54da171322894bd1b0a6d7559d34": {
-    "fetchedAt": "2026-07-11T04:25:23.442Z",
+    "fetchedAt": "2026-07-19T04:28:47.808Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-05-30T03:49:15.744046Z",
       "proxyWallet": "0xea39e4c0aace54da171322894bd1b0a6d7559d34",
       "displayUsernamePublic": true,
@@ -16264,7 +16269,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 38951.250454
+      "weightedVolume": 34842.10292
     }
   },
   "0x0788f696d4998089681a629978bea302f465c287": {
@@ -17430,9 +17435,10 @@
     }
   },
   "0xa4e1c7edd72e5a4a180c5b22d9806daa48acd80b": {
-    "fetchedAt": "2026-06-22T07:51:16.857Z",
+    "fetchedAt": "2026-07-19T04:28:47.428Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-09-22T00:40:50.770925Z",
       "proxyWallet": "0xa4e1c7edd72e5a4a180c5b22d9806daa48acd80b",
       "displayUsernamePublic": true,
@@ -17451,7 +17457,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 14724.199238
+      "weightedVolume": 8846.754098
     }
   },
   "0xe83604998fb3cc758f92b5f69a2974507351dfc4": {
@@ -20934,9 +20940,10 @@
     }
   },
   "0x5b0c60871d8d45431b1bb502ee1db01f9fea10eb": {
-    "fetchedAt": "2026-07-11T04:25:23.850Z",
+    "fetchedAt": "2026-07-19T04:28:48.107Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2022-05-22T12:40:49.533Z",
       "proxyWallet": "0x5b0c60871d8d45431b1bb502ee1db01f9fea10eb",
       "displayUsernamePublic": false,
@@ -20955,7 +20962,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 944.809377
+      "weightedVolume": 1371.847094
     }
   },
   "0x65eb4ed287819f7bd37c9d02b1ca0f57223ae197": {
@@ -25167,9 +25174,10 @@
     }
   },
   "0xb848717a956f145f28486b60a097a802d8d029e5": {
-    "fetchedAt": "2026-07-09T04:38:26.302Z",
+    "fetchedAt": "2026-07-19T04:28:48.380Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-02-21T16:01:11.90285Z",
       "proxyWallet": "0xb848717a956f145f28486b60a097a802d8d029e5",
       "displayUsernamePublic": true,
@@ -25187,7 +25195,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 0.101326
+      "weightedVolume": 0.095405
     }
   },
   "0x7822ecfd67654c920716d6e65ef07efa5421bce4": {
@@ -25722,9 +25730,10 @@
     }
   },
   "0xe650f816a40b4250ff6d3593046c801055ba1e3f": {
-    "fetchedAt": "2026-07-01T04:54:02.956Z",
+    "fetchedAt": "2026-07-19T04:28:48.425Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-26T03:23:11.11863Z",
       "proxyWallet": "0xe650f816a40b4250ff6d3593046c801055ba1e3f",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5494399-59eafee8-6c91-4c01-83a4-6113822f46c2.png",
@@ -25742,9 +25751,9 @@
       ],
       "xUsername": "lavlu67",
       "verifiedBadge": false,
-      "takerTier": 1,
-      "takerTierName": "Bronze",
-      "weightedVolume": 18394.262438
+      "takerTier": 2,
+      "takerTierName": "Silver",
+      "weightedVolume": 32168.038973
     }
   },
   "0x7e5c00d2dc06e2a9b8f97e91efca380cfa929554": {
@@ -27124,9 +27133,10 @@
     }
   },
   "0x6312737af8c3f5a5a2b6ba23c5d65236c049f94e": {
-    "fetchedAt": "2026-07-09T04:38:33.652Z",
+    "fetchedAt": "2026-07-19T04:28:48.611Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-29T18:10:26.856008Z",
       "proxyWallet": "0x6312737af8c3f5a5a2b6ba23c5d65236c049f94e",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4765467-3beb4e8d-8b81-4743-acc1-63964170c27e.gif",
@@ -27146,7 +27156,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 5546.98479
+      "weightedVolume": 4623.268841
     }
   },
   "0x517be68887e90a9d6e863c23e8624bdf836ffe53": {
@@ -27408,9 +27418,10 @@
     }
   },
   "0xc4492a06519cbdf9e8974f74baa0f79457a67cf3": {
-    "fetchedAt": "2026-07-07T04:38:45.135Z",
+    "fetchedAt": "2026-07-19T04:28:48.518Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-06T09:11:24.664814Z",
       "proxyWallet": "0xc4492a06519cbdf9e8974f74baa0f79457a67cf3",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7224985-00151908-75c8-45ed-a5d6-ef54038cc359.webp",
@@ -27429,7 +27440,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 55686.931978
+      "weightedVolume": 22003.719922
     }
   },
   "0x781a48229e2c08e20d1eaad90ef73710988c96e6": {
@@ -29650,9 +29661,10 @@
     }
   },
   "0x20aef06326d0cb698882d01a686e4aa41ef45971": {
-    "fetchedAt": "2026-07-09T04:38:40.151Z",
+    "fetchedAt": "2026-07-19T04:28:48.628Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-09-26T11:34:07.850044Z",
       "proxyWallet": "0x20aef06326d0cb698882d01a686e4aa41ef45971",
       "displayUsernamePublic": true,
@@ -29675,9 +29687,10 @@
     }
   },
   "0x44f1c915c23d67a9412f3dc98c8e51cd92b56633": {
-    "fetchedAt": "2026-07-09T04:38:40.241Z",
+    "fetchedAt": "2026-07-19T04:28:48.663Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-03-10T01:27:55.106228Z",
       "proxyWallet": "0x44f1c915c23d67a9412f3dc98c8e51cd92b56633",
       "displayUsernamePublic": true,
@@ -29695,13 +29708,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 4.027901
+      "weightedVolume": 3.458402
     }
   },
   "0x7429f2b94b0224562729366232872725027e1415": {
-    "fetchedAt": "2026-07-09T04:38:40.211Z",
+    "fetchedAt": "2026-07-19T04:28:48.655Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-07T14:43:24.14337Z",
       "proxyWallet": "0x7429f2b94b0224562729366232872725027e1415",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1335138-db1e4c25-767b-4e39-83ba-99bca6b01b16.jpg",
@@ -29724,9 +29738,10 @@
     }
   },
   "0xcf4173574717bda8df6e73bcd83b8372fc188226": {
-    "fetchedAt": "2026-07-09T04:38:40.219Z",
+    "fetchedAt": "2026-07-19T04:28:48.651Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-21T12:10:55.847511Z",
       "proxyWallet": "0xcf4173574717bda8df6e73bcd83b8372fc188226",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3663312-480c823c-5b8f-4550-a073-9949bf9f2a48.jpg",
@@ -29745,7 +29760,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 507.52811
+      "weightedVolume": 494.101922
     }
   },
   "0xa07fadb8abf6f84ddd5e38b1c5a77976b83e0fa9": {
@@ -29773,9 +29788,10 @@
     }
   },
   "0x8376ce37d52ea2f1e1f8a17a509d5711e29250f4": {
-    "fetchedAt": "2026-07-09T04:38:40.278Z",
+    "fetchedAt": "2026-07-19T04:28:48.666Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-09-26T06:56:35.688296Z",
       "proxyWallet": "0x8376ce37d52ea2f1e1f8a17a509d5711e29250f4",
       "displayUsernamePublic": true,
@@ -29850,9 +29866,10 @@
     }
   },
   "0xde10314abe5cddaa74891db894376064bfa3317f": {
-    "fetchedAt": "2026-06-22T07:51:24.257Z",
+    "fetchedAt": "2026-07-19T04:28:47.555Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-09-20T06:53:16.426582Z",
       "proxyWallet": "0xde10314abe5cddaa74891db894376064bfa3317f",
       "displayUsernamePublic": true,
@@ -29871,7 +29888,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1.175603
+      "weightedVolume": 0.2261
     }
   },
   "0xb5832fed063f698bec8d269286a10ff30f17ce33": {
@@ -29924,9 +29941,10 @@
     }
   },
   "0x8e27a3b5673ab53a4eefd4bb664e4cc1d34cdde6": {
-    "fetchedAt": "2026-07-09T04:38:40.263Z",
+    "fetchedAt": "2026-07-19T04:28:48.683Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-05-13T12:20:39.693978Z",
       "proxyWallet": "0x8e27a3b5673ab53a4eefd4bb664e4cc1d34cdde6",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8066327-9a059cea-2f3d-42c9-b5c2-0e1db62a248b.png",
@@ -33381,9 +33399,10 @@
     }
   },
   "0xa0c0b2127f46690233ba625cda17a4bbe2b9c4c9": {
-    "fetchedAt": "2026-07-11T04:25:23.298Z",
+    "fetchedAt": "2026-07-19T04:28:47.956Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T07:30:48.418554Z",
       "proxyWallet": "0xa0c0b2127f46690233ba625cda17a4bbe2b9c4c9",
       "displayUsernamePublic": true,
@@ -34034,9 +34053,10 @@
     }
   },
   "0x2cf30c6341678b27be551e267aa3949f8161ae6f": {
-    "fetchedAt": "2026-07-09T04:38:40.826Z",
+    "fetchedAt": "2026-07-19T04:28:48.755Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-27T22:15:33.094141Z",
       "proxyWallet": "0x2cf30c6341678b27be551e267aa3949f8161ae6f",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7715838-19b3f249-31f3-4d10-bb77-49c10a8df4b2.png",
@@ -34056,7 +34076,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1663.512468
+      "weightedVolume": 1637.417485
     }
   },
   "0x9d660f81067ec29401574e3bc4f774fffa939670": {
@@ -34367,9 +34387,10 @@
     }
   },
   "0xdcf1761250cdaa154917aa7f8e051014f0a81695": {
-    "fetchedAt": "2026-07-01T04:54:04.318Z",
+    "fetchedAt": "2026-07-19T04:28:48.615Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-05T09:27:20.133867Z",
       "proxyWallet": "0xdcf1761250cdaa154917aa7f8e051014f0a81695",
       "displayUsernamePublic": true,
@@ -34387,7 +34408,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1116.783658
+      "weightedVolume": 1288.429206
     }
   },
   "0x9b3c12d60bcd85ec3c0bdb0b29734352fd12b892": {
@@ -37520,9 +37541,10 @@
     }
   },
   "0x2c0bcd40f575a1757d1e3d5ea56d92850bd0ae5a": {
-    "fetchedAt": "2026-07-09T04:38:43.526Z",
+    "fetchedAt": "2026-07-19T04:28:48.853Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-12-21T21:17:47.092746Z",
       "proxyWallet": "0x2c0bcd40f575a1757d1e3d5ea56d92850bd0ae5a",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pinkified_0c27221c-af41-43bd-b57a-e5b850a0e8f6_1734815916157.jpg",
@@ -42869,9 +42891,10 @@
     }
   },
   "0x19f60e1ee3d2217b8c3c46fcfefc0742402a09bc": {
-    "fetchedAt": "2026-07-11T04:25:24.442Z",
+    "fetchedAt": "2026-07-19T04:28:49.028Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-09-30T06:19:15.160581Z",
       "proxyWallet": "0x19f60e1ee3d2217b8c3c46fcfefc0742402a09bc",
       "displayUsernamePublic": true,
@@ -42889,7 +42912,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 133.483505
+      "weightedVolume": 99.086449
     }
   },
   "0xdca48aec03c7c47d88eec68f5341e5d95138e93d": {
@@ -44714,9 +44737,10 @@
     }
   },
   "0x8ea75e74bb7a6687cf46b8f35d9d885dedca9708": {
-    "fetchedAt": "2026-07-10T04:39:24.355Z",
+    "fetchedAt": "2026-07-19T04:28:49.038Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-01T05:34:22.939433Z",
       "proxyWallet": "0x8ea75e74bb7a6687cf46b8f35d9d885dedca9708",
       "displayUsernamePublic": true,
@@ -44734,7 +44758,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 57.144763
+      "weightedVolume": 70.005432
     }
   },
   "0xbac41a10c638fd853bcf7d6717908bc5748a45f7": {
@@ -46904,9 +46928,10 @@
     }
   },
   "0x0ff3aadb48e376da9ed8aefe16212ee64cf1b0fe": {
-    "fetchedAt": "2026-07-10T04:39:22.539Z",
+    "fetchedAt": "2026-07-19T04:28:48.413Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-05T12:48:41.75613Z",
       "proxyWallet": "0x0ff3aadb48e376da9ed8aefe16212ee64cf1b0fe",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3984245-6f8a8a9f-35d6-4cf4-9677-5524c89f1a38.jpg",
@@ -47594,14 +47619,16 @@
     }
   },
   "0x1b8f6839d303cbe53a324edaca17c4820056e17e": {
-    "fetchedAt": "2026-07-09T04:38:47.627Z",
+    "fetchedAt": "2026-07-19T04:28:48.997Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-08T12:11:32.751377Z",
       "proxyWallet": "0x1b8f6839d303cbe53a324edaca17c4820056e17e",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4984070-c0e57d22-3b9f-43fc-8bd2-a84865f6d746.webp",
       "displayUsernamePublic": true,
       "pseudonym": "Yellowish-Melatonin",
-      "name": "PrivateerTrolosiSoypo",
+      "name": "NadiaKingTejano",
       "users": [
         {
           "id": "4984070",
@@ -47614,7 +47641,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2532.255899
+      "weightedVolume": 2402.338947
     }
   },
   "0x5c1b684663197328d64ef9254840fa745bd3d915": {
@@ -50375,9 +50402,10 @@
     }
   },
   "0x272df07434614e735c7896b0eb9d3d26c78d9e36": {
-    "fetchedAt": "2026-07-11T04:25:23.415Z",
+    "fetchedAt": "2026-07-19T04:28:47.429Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-06-25T09:57:24.33168Z",
       "proxyWallet": "0x272df07434614e735c7896b0eb9d3d26c78d9e36",
       "displayUsernamePublic": true,
@@ -50393,9 +50421,9 @@
       ],
       "xUsername": "ScreenBooy",
       "verifiedBadge": false,
-      "takerTier": 0,
-      "takerTierName": "Tier 0",
-      "weightedVolume": 550.200177
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 2308.750732
     }
   },
   "0x8842b3d569f49f38c61d10d2da9e78f826d6023c": {
@@ -50678,9 +50706,10 @@
     }
   },
   "0x827a76fd1d596199df88b98e004258f0be15a12b": {
-    "fetchedAt": "2026-07-11T04:25:24.099Z",
+    "fetchedAt": "2026-07-19T04:28:48.796Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2023-06-24T12:50:52.113Z",
       "proxyWallet": "0x827a76fd1d596199df88b98e004258f0be15a12b",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-126476-4837bcc7-5a67-46dd-ae0c-de28b1247635.png",
@@ -50700,7 +50729,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 9503.68211
+      "weightedVolume": 4011.787526
     }
   },
   "0x8c65191e411feec6c73aefbd74a55d246099dcf7": {
@@ -51041,9 +51070,10 @@
     }
   },
   "0x34d7c1f052c5cb515e5d864bcdb8cdb15cb844a6": {
-    "fetchedAt": "2026-07-04T04:31:34.501Z",
+    "fetchedAt": "2026-07-19T04:28:49.125Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-03-12T08:24:55.593397Z",
       "proxyWallet": "0x34d7c1f052c5cb515e5d864bcdb8cdb15cb844a6",
       "displayUsernamePublic": true,
@@ -52568,9 +52598,10 @@
     }
   },
   "0x10baa5e530fe99766598516f6fd856b22ac210b8": {
-    "fetchedAt": "2026-07-11T04:25:23.982Z",
+    "fetchedAt": "2026-07-19T04:28:49.879Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-09-18T01:29:27.280504Z",
       "proxyWallet": "0x10baa5e530fe99766598516f6fd856b22ac210b8",
       "displayUsernamePublic": true,
@@ -52586,9 +52617,9 @@
       ],
       "xUsername": "wakywu",
       "verifiedBadge": false,
-      "takerTier": 2,
-      "takerTierName": "Silver",
-      "weightedVolume": 29360.880613
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 18823.317891
     }
   },
   "0xc1cf7d0ccb729703a5f4d97ed1045a42dbd99656": {
@@ -56067,9 +56098,10 @@
     }
   },
   "0x72aa815079ded0a31435d0ab71a044e32aa7fa25": {
-    "fetchedAt": "2026-07-09T04:38:52.119Z",
+    "fetchedAt": "2026-07-19T04:28:47.542Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-02T09:26:52.922978Z",
       "proxyWallet": "0x72aa815079ded0a31435d0ab71a044e32aa7fa25",
       "displayUsernamePublic": true,
@@ -56087,7 +56119,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 7.137792
+      "weightedVolume": 75.61998
     }
   },
   "0xcaa09b09424c43173a85965ee56ea8a87919873d": {
@@ -56194,9 +56226,10 @@
     }
   },
   "0x5adcde5e72fbd21058d9f4f3eced7dcf950ced78": {
-    "fetchedAt": "2026-07-10T04:39:26.287Z",
+    "fetchedAt": "2026-07-19T04:28:49.292Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-02-26T07:16:27.764883Z",
       "proxyWallet": "0x5adcde5e72fbd21058d9f4f3eced7dcf950ced78",
       "displayUsernamePublic": true,
@@ -57588,9 +57621,10 @@
     }
   },
   "0x2c4c6e97b9ca306cc9827d4596b43c3c4905d057": {
-    "fetchedAt": "2026-06-22T07:51:40.835Z",
+    "fetchedAt": "2026-07-19T04:28:48.790Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-01-04T17:11:49.827987Z",
       "proxyWallet": "0x2c4c6e97b9ca306cc9827d4596b43c3c4905d057",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1810369-728c9569-389c-4849-959e-be02c1e0a373.png",
@@ -57610,7 +57644,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 88.330387
+      "weightedVolume": 17.651885
     }
   },
   "0x2e68845170af9dcf46c1e477d688205a90276898": {
@@ -59301,9 +59335,10 @@
     }
   },
   "0x567e5102285c1cd6afc4e82399d42433ce46e2d2": {
-    "fetchedAt": "2026-07-09T04:38:52.855Z",
+    "fetchedAt": "2026-07-19T04:28:48.856Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-07-14T08:07:33.601285Z",
       "proxyWallet": "0x567e5102285c1cd6afc4e82399d42433ce46e2d2",
       "displayUsernamePublic": true,
@@ -59321,7 +59356,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 830.644117
+      "weightedVolume": 663.832005
     }
   },
   "0x2194ba875ef269b7bb17821aef0b86549ea2bec0": {
@@ -63662,9 +63697,10 @@
     }
   },
   "0x19cd2a6fa94fddab6c7f91ec4eb712e51598f7ff": {
-    "fetchedAt": "2026-07-07T04:38:47.679Z",
+    "fetchedAt": "2026-07-19T04:28:49.499Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-19T19:08:56.212403Z",
       "proxyWallet": "0x19cd2a6fa94fddab6c7f91ec4eb712e51598f7ff",
       "displayUsernamePublic": true,
@@ -63985,9 +64021,10 @@
     }
   },
   "0xcdb8bee273036db388e97262bff445e89a34f285": {
-    "fetchedAt": "2026-07-07T04:38:47.694Z",
+    "fetchedAt": "2026-07-19T04:28:49.514Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-13T23:14:12.09047Z",
       "proxyWallet": "0xcdb8bee273036db388e97262bff445e89a34f285",
       "displayUsernamePublic": true,
@@ -64036,9 +64073,10 @@
     }
   },
   "0xdfb539382fd39d17321110ad568a564c1e978bd4": {
-    "fetchedAt": "2026-07-11T04:25:22.855Z",
+    "fetchedAt": "2026-07-19T04:28:47.675Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-19T09:35:08.167828Z",
       "proxyWallet": "0xdfb539382fd39d17321110ad568a564c1e978bd4",
       "displayUsernamePublic": true,
@@ -64060,9 +64098,10 @@
     }
   },
   "0x533d066d655ae6b2d27620d30c81a7af828de5ec": {
-    "fetchedAt": "2026-07-07T04:38:47.686Z",
+    "fetchedAt": "2026-07-19T04:28:49.519Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-20T00:47:47.334955Z",
       "proxyWallet": "0x533d066d655ae6b2d27620d30c81a7af828de5ec",
       "displayUsernamePublic": true,
@@ -64084,9 +64123,10 @@
     }
   },
   "0x492490c1403eb4aab63fbdf79ed4183c393af404": {
-    "fetchedAt": "2026-07-07T04:38:47.698Z",
+    "fetchedAt": "2026-07-19T04:28:49.559Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-15T20:11:15.236605Z",
       "proxyWallet": "0x492490c1403eb4aab63fbdf79ed4183c393af404",
       "displayUsernamePublic": true,
@@ -64133,9 +64173,10 @@
     }
   },
   "0x8f3ed571efdf649a2b7f874fbcd8b877e97ff9d4": {
-    "fetchedAt": "2026-07-07T04:38:47.684Z",
+    "fetchedAt": "2026-07-19T04:28:49.439Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-15T21:10:50.315989Z",
       "proxyWallet": "0x8f3ed571efdf649a2b7f874fbcd8b877e97ff9d4",
       "displayUsernamePublic": true,
@@ -64145,8 +64186,7 @@
         {
           "id": "4121812",
           "creator": false,
-          "mod": false,
-          "communityMod": false
+          "mod": false
         }
       ],
       "xUsername": "Joy693723778125",
@@ -64157,9 +64197,10 @@
     }
   },
   "0x2cb0f113ff9eb4cf35312bf1f663d3dc74870d4c": {
-    "fetchedAt": "2026-07-07T04:38:47.752Z",
+    "fetchedAt": "2026-07-19T04:28:49.586Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-13T23:11:38.0108Z",
       "proxyWallet": "0x2cb0f113ff9eb4cf35312bf1f663d3dc74870d4c",
       "displayUsernamePublic": true,
@@ -65874,9 +65915,10 @@
     }
   },
   "0xbfce9d5f6b776e56d1c59c55404532281ea25c3e": {
-    "fetchedAt": "2026-07-10T04:39:22.077Z",
+    "fetchedAt": "2026-07-19T04:28:47.950Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-25T04:54:15.167541Z",
       "proxyWallet": "0xbfce9d5f6b776e56d1c59c55404532281ea25c3e",
       "displayUsernamePublic": true,
@@ -65894,7 +65936,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 10414.467008
+      "weightedVolume": 14245.075151
     }
   },
   "0x92924d2fed9956053c3b2c1a5635bd69fc557d85": {
@@ -66320,9 +66362,10 @@
     }
   },
   "0x54a00472cbffa61962e38251e6988e6d5c3f111a": {
-    "fetchedAt": "2026-07-05T04:43:39.452Z",
+    "fetchedAt": "2026-07-19T04:28:48.231Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-08-08T13:07:41.17262Z",
       "proxyWallet": "0x54a00472cbffa61962e38251e6988e6d5c3f111a",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-666641-5914e806-377d-4c1b-a36b-58e204dddc74.png",
@@ -66341,7 +66384,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 163.121758
+      "weightedVolume": 170.916932
     }
   },
   "0x7e654e559ba0880074a0d592707236d7cd7f694f": {
@@ -66421,9 +66464,10 @@
     }
   },
   "0xeeb1ede6052eef8c829b8e30309441fba3febf68": {
-    "fetchedAt": "2026-07-11T04:25:25.611Z",
+    "fetchedAt": "2026-07-19T04:28:47.412Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2021-03-06T14:19:15.484Z",
       "proxyWallet": "0xeeb1ede6052eef8c829b8e30309441fba3febf68",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-22820-d2e3b40c-ebfe-434e-ac42-d44a80f8ea59.jpeg",
@@ -67736,9 +67780,10 @@
     }
   },
   "0xd4261417ff4c3893a8b55b0f5fccead0af908eb6": {
-    "fetchedAt": "2026-07-11T04:25:24.486Z",
+    "fetchedAt": "2026-07-19T04:28:49.025Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-21T14:58:03.596969Z",
       "proxyWallet": "0xd4261417ff4c3893a8b55b0f5fccead0af908eb6",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6856373-9aef5718-fb83-40f9-aed7-e6f29f75185b.png",
@@ -67757,7 +67802,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 381.253588
+      "weightedVolume": 422.178891
     }
   },
   "0x2bea18413369d2de928c41223fda6b9f58cf2aed": {
@@ -68323,9 +68368,10 @@
     }
   },
   "0xc1c4e0aa0a6ed08d18a1d5bd8a2d1504f176bbfb": {
-    "fetchedAt": "2026-07-10T04:39:22.034Z",
+    "fetchedAt": "2026-07-19T04:28:48.011Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-10-16T08:55:57.254955Z",
       "proxyWallet": "0xc1c4e0aa0a6ed08d18a1d5bd8a2d1504f176bbfb",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Bad_Luck_Brian_3297bfd9-e328-485a-8ed1-336a558df455_1729069056599.webp",
@@ -68344,7 +68390,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2094.268687
+      "weightedVolume": 2418.765991
     }
   },
   "0xa2662280f44e71b7b6f329b0994b2796bdfa67f7": {
@@ -68398,9 +68444,10 @@
     }
   },
   "0xe6eed603ce014cf8d87c13aada34e290840bb3aa": {
-    "fetchedAt": "2026-07-10T04:39:24.252Z",
+    "fetchedAt": "2026-07-19T04:28:47.969Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-30T13:25:17.789789Z",
       "proxyWallet": "0xe6eed603ce014cf8d87c13aada34e290840bb3aa",
       "displayUsernamePublic": true,
@@ -68418,7 +68465,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 85123.155349
+      "weightedVolume": 84860.705407
     }
   },
   "0x6d89997408c81b01baa9dc8ac90a0578ac769ef7": {
@@ -68447,9 +68494,10 @@
     }
   },
   "0x8d0328e8aeaa03bb13796c0eb31210f7f216fabf": {
-    "fetchedAt": "2026-07-10T04:39:21.625Z",
+    "fetchedAt": "2026-07-19T04:28:47.421Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2022-01-17T12:08:49.24Z",
       "proxyWallet": "0x8d0328e8aeaa03bb13796c0eb31210f7f216fabf",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-81566-9e585108-6176-4ace-89e7-3a20878ef739.jpg",
@@ -69176,9 +69224,10 @@
     }
   },
   "0xcc45b69d64c9ba538ac2572b3d465f4290f69fdf": {
-    "fetchedAt": "2026-07-09T04:38:34.861Z",
+    "fetchedAt": "2026-07-19T04:28:48.071Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-08-16T22:39:47.524021Z",
       "proxyWallet": "0xcc45b69d64c9ba538ac2572b3d465f4290f69fdf",
       "displayUsernamePublic": true,
@@ -70323,9 +70372,10 @@
     }
   },
   "0x0898b82df0c6e8bbd7d0c9e65beaf8c60bc59a5b": {
-    "fetchedAt": "2026-07-10T04:39:22.978Z",
+    "fetchedAt": "2026-07-19T04:28:48.716Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-25T22:56:14.449766Z",
       "proxyWallet": "0x0898b82df0c6e8bbd7d0c9e65beaf8c60bc59a5b",
       "displayUsernamePublic": true,
@@ -70343,7 +70393,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 443.634849
+      "weightedVolume": 612.060566
     }
   },
   "0x32f61116aaa70258943eb57db5e3ce7b18477275": {
@@ -71193,9 +71243,10 @@
     }
   },
   "0x985b37274fd97526d2449c30c4c1684d0cf224d6": {
-    "fetchedAt": "2026-07-10T04:39:21.689Z",
+    "fetchedAt": "2026-07-19T04:28:47.695Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-30T06:19:09.670335Z",
       "proxyWallet": "0x985b37274fd97526d2449c30c4c1684d0cf224d6",
       "displayUsernamePublic": true,
@@ -71213,7 +71264,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 531.44894
+      "weightedVolume": 568.732075
     }
   },
   "0x6acc4ace1b251a6894e60372f7928937cce2dacf": {
@@ -72095,9 +72146,10 @@
     }
   },
   "0xbf982860a233f6932be6a82efd13e3a2f37fd0bf": {
-    "fetchedAt": "2026-07-10T04:39:21.978Z",
+    "fetchedAt": "2026-07-19T04:28:49.310Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-08-23T15:08:04.613007Z",
       "proxyWallet": "0xbf982860a233f6932be6a82efd13e3a2f37fd0bf",
       "displayUsernamePublic": true,
@@ -72116,7 +72168,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2715.423439
+      "weightedVolume": 2412.482456
     }
   },
   "0xc0f713514afd142b134eb2cb2a838ef80074801d": {
@@ -72146,9 +72198,10 @@
     }
   },
   "0x58256cf45875dd051f5aace352f41b6e24bf1c87": {
-    "fetchedAt": "2026-07-11T04:25:25.352Z",
+    "fetchedAt": "2026-07-19T04:28:49.499Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2021-12-28T09:24:39.916Z",
       "proxyWallet": "0x58256cf45875dd051f5aace352f41b6e24bf1c87",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-73866-a7fa5c99-bbe5-4c06-8a8c-bbc1f55a1659.png",
@@ -72446,9 +72499,10 @@
     }
   },
   "0x8fce065d5820ea3deb72976640290959bb952566": {
-    "fetchedAt": "2026-07-11T04:25:23.073Z",
+    "fetchedAt": "2026-07-19T04:28:49.050Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-08-09T02:41:09.305432Z",
       "proxyWallet": "0x8fce065d5820ea3deb72976640290959bb952566",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-668150-89afbe29-ed0c-454a-baca-8937ad8be931.jpg",
@@ -72468,7 +72522,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 3706.299432
+      "weightedVolume": 3646.255971
     }
   },
   "0x96f91943667762bbce634653e01e1a4745611d08": {
@@ -72523,9 +72577,10 @@
     }
   },
   "0x0a2dfe99ccd662e3c270d4567c196b6be6166db9": {
-    "fetchedAt": "2026-07-11T04:25:25.675Z",
+    "fetchedAt": "2026-07-19T04:28:48.879Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2022-01-17T08:58:40.49Z",
       "proxyWallet": "0x0a2dfe99ccd662e3c270d4567c196b6be6166db9",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-81421-36239e9d-f084-445b-80e9-a1c235d60cd9.jpg",
@@ -72545,7 +72600,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 56188.401502
+      "weightedVolume": 41556.675332
     }
   },
   "0x710723b1c7d0ee7fb2f0ad456f573942e0470ff8": {
@@ -72803,9 +72858,10 @@
     }
   },
   "0x2934e55ad87b0806043d0fad6729aaf087b89a60": {
-    "fetchedAt": "2026-06-22T10:34:38.327Z",
+    "fetchedAt": "2026-07-19T04:28:49.752Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-13T17:17:27.382144Z",
       "proxyWallet": "0x2934e55ad87b0806043d0fad6729aaf087b89a60",
       "displayUsernamePublic": true,
@@ -72903,9 +72959,10 @@
     }
   },
   "0x758ae553acc82337cec98f89a8a5d0ad0034f23c": {
-    "fetchedAt": "2026-07-10T04:39:27.116Z",
+    "fetchedAt": "2026-07-19T04:28:47.693Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-30T22:37:39.4699Z",
       "proxyWallet": "0x758ae553acc82337cec98f89a8a5d0ad0034f23c",
       "displayUsernamePublic": true,
@@ -72923,7 +72980,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 375.604942
+      "weightedVolume": 759.321439
     }
   },
   "0xe92d131b08224b97e55ebecc3d5f37fc0376bffc": {
@@ -74209,9 +74266,10 @@
     }
   },
   "0x7090175c8e4cf039662ddf39b10a1f792cd8a5ff": {
-    "fetchedAt": "2026-07-01T04:54:03.380Z",
+    "fetchedAt": "2026-07-19T04:28:47.758Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-23T07:41:13.910507Z",
       "proxyWallet": "0x7090175c8e4cf039662ddf39b10a1f792cd8a5ff",
       "displayUsernamePublic": true,
@@ -74229,7 +74287,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 30198.91984
+      "weightedVolume": 24298.476802
     }
   },
   "0xfe41b5f267bc12dd3554ef20241c5b33cc92e151": {
@@ -75484,9 +75542,10 @@
     }
   },
   "0xe02cc6a949a33167a601f798dbe044b200e54ab1": {
-    "fetchedAt": "2026-06-22T15:29:41.463Z",
+    "fetchedAt": "2026-07-19T04:28:48.418Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-13T03:16:57.126826Z",
       "proxyWallet": "0xe02cc6a949a33167a601f798dbe044b200e54ab1",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6671190-dd98e8e7-e904-4d6b-80b1-f8eceffbcbd4.webp",
@@ -75506,7 +75565,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 232.347869
+      "weightedVolume": 485.702432
     }
   },
   "0x4dfc1beccd63daff13218eeaf344daf66f521818": {
@@ -76195,9 +76254,10 @@
     }
   },
   "0x51febe5f6ebf72e4b745f56409142b5bd3fe7061": {
-    "fetchedAt": "2026-06-22T16:11:38.397Z",
+    "fetchedAt": "2026-07-19T04:28:48.104Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-12T15:48:23.255121Z",
       "proxyWallet": "0x51febe5f6ebf72e4b745f56409142b5bd3fe7061",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5101953-29ce1e6d-9553-4fd6-b409-57e765c6b53d.jpg",
@@ -76216,7 +76276,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 8.257674
+      "weightedVolume": 0.7055
     }
   },
   "0x4e0fb683037c89eab450c35856b0cccaae56e49c": {
@@ -77417,11 +77477,13 @@
     }
   },
   "0xba637756d14547a1831e3b998b999b0ad9d16271": {
-    "fetchedAt": "2026-06-23T04:44:32.251Z",
+    "fetchedAt": "2026-07-19T04:28:48.896Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-07-12T10:25:51.51507Z",
       "proxyWallet": "0xba637756d14547a1831e3b998b999b0ad9d16271",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3175083-41f99699-88a6-4a96-b202-b193a0d4a9ae.png",
       "displayUsernamePublic": true,
       "bio": "",
       "pseudonym": "Pushy-Provision",
@@ -77438,7 +77500,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 501.748178
+      "weightedVolume": 541.291055
     }
   },
   "0xf218f71c0982c4fc1dbb9f5c882a0ead3590f6ee": {
@@ -78252,9 +78314,10 @@
     }
   },
   "0x78022ab4c85d732c25f3fe527fe08a3deefbe646": {
-    "fetchedAt": "2026-06-23T04:44:32.917Z",
+    "fetchedAt": "2026-07-19T04:28:48.778Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-09T15:57:45.554984Z",
       "proxyWallet": "0x78022ab4c85d732c25f3fe527fe08a3deefbe646",
       "displayUsernamePublic": true,
@@ -78272,7 +78335,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1259.2235
+      "weightedVolume": 1899.17316
     }
   },
   "0xb7e8aa560c56713cd495cac0d6a7abeaf3368f37": {
@@ -80260,9 +80323,10 @@
     }
   },
   "0xda164a1aa5a166021fd2bb6dc1e54881f58aac2b": {
-    "fetchedAt": "2026-07-01T04:54:00.908Z",
+    "fetchedAt": "2026-07-19T04:28:47.816Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-06-11T17:17:48.881125Z",
       "proxyWallet": "0xda164a1aa5a166021fd2bb6dc1e54881f58aac2b",
       "displayUsernamePublic": true,
@@ -80279,9 +80343,9 @@
       ],
       "xUsername": "GazCapital_",
       "verifiedBadge": false,
-      "takerTier": 2,
-      "takerTierName": "Silver",
-      "weightedVolume": 25987.238933
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 17782.476743
     }
   },
   "0x8c7836b270daf59bce721087f41ef10684a413ed": {
@@ -81940,9 +82004,10 @@
     }
   },
   "0x46459a3c100c7b06cce6d9e53968bb92937659ba": {
-    "fetchedAt": "2026-07-11T04:25:24.229Z",
+    "fetchedAt": "2026-07-19T04:28:48.807Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-25T05:25:26.165326Z",
       "proxyWallet": "0x46459a3c100c7b06cce6d9e53968bb92937659ba",
       "displayUsernamePublic": true,
@@ -81960,7 +82025,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 199.232774
+      "weightedVolume": 259.154436
     }
   },
   "0x7c23cacebc8f417674bc795313d541f7c94d0266": {
@@ -82612,9 +82677,10 @@
     }
   },
   "0xd6280c12247e5ca01e17f1097f25384e6ac7a698": {
-    "fetchedAt": "2026-07-05T04:43:40.348Z",
+    "fetchedAt": "2026-07-19T04:28:48.710Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-07-29T00:48:13.275357Z",
       "proxyWallet": "0xd6280c12247e5ca01e17f1097f25384e6ac7a698",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-640592-83e85476-c4ed-421f-9b41-fcfb6e4a8c30.webp",
@@ -82632,9 +82698,9 @@
       ],
       "xUsername": "Aostinsantos",
       "verifiedBadge": false,
-      "takerTier": 1,
-      "takerTierName": "Bronze",
-      "weightedVolume": 3557.479648
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 482.197974
     }
   },
   "0xedf3168fcaee84659146ed956627be1a7c65036d": {
@@ -86830,9 +86896,10 @@
     }
   },
   "0x720dc97f38b9988d3b3b033e8f156fd4e82fea38": {
-    "fetchedAt": "2026-07-11T04:25:22.831Z",
+    "fetchedAt": "2026-07-19T04:28:47.534Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-26T09:13:48.892132Z",
       "proxyWallet": "0x720dc97f38b9988d3b3b033e8f156fd4e82fea38",
       "displayUsernamePublic": true,
@@ -87175,9 +87242,10 @@
     }
   },
   "0xcfdceaac4912b9a56ce2d837269270c0bff85a2e": {
-    "fetchedAt": "2026-07-11T04:25:24.662Z",
+    "fetchedAt": "2026-07-19T04:28:49.655Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2023-11-05T08:50:52.724Z",
       "proxyWallet": "0xcfdceaac4912b9a56ce2d837269270c0bff85a2e",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-142512-d5ff8703-86ca-4de8-a963-53f60cda3e1d.webp",
@@ -87197,7 +87265,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1175.377496
+      "weightedVolume": 884.691069
     }
   },
   "0x6a0134c341163b5d6559e107c727b48177366d22": {
@@ -87350,9 +87418,10 @@
     }
   },
   "0x1e77401bb590f95c1202e4fc65d4028c09c5c65f": {
-    "fetchedAt": "2026-06-24T04:46:44.446Z",
+    "fetchedAt": "2026-07-19T04:28:47.409Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-31T07:05:02.380598Z",
       "proxyWallet": "0x1e77401bb590f95c1202e4fc65d4028c09c5c65f",
       "displayUsernamePublic": true,
@@ -87983,9 +88052,10 @@
     }
   },
   "0xa5a8538b3d8c7cb45fa1968716faf0ca83a3bf60": {
-    "fetchedAt": "2026-07-02T04:44:27.571Z",
+    "fetchedAt": "2026-07-19T04:28:48.087Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-04T23:07:05.867981Z",
       "proxyWallet": "0xa5a8538b3d8c7cb45fa1968716faf0ca83a3bf60",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4407590-5a43c17d-c5e6-461c-8a9b-6d7e962a68fc.jpg",
@@ -88005,7 +88075,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 18694.819312
+      "weightedVolume": 6339.189403
     }
   },
   "0x6cb5d1d059e133cb905a2e987511cf0d32bdb230": {
@@ -88387,9 +88457,10 @@
     }
   },
   "0xa938bd5cf8e796c4b7f8cee1a39c65f17134a1ff": {
-    "fetchedAt": "2026-07-07T04:38:44.939Z",
+    "fetchedAt": "2026-07-19T04:28:48.463Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-16T10:20:46.466878Z",
       "proxyWallet": "0xa938bd5cf8e796c4b7f8cee1a39c65f17134a1ff",
       "displayUsernamePublic": true,
@@ -88411,9 +88482,10 @@
     }
   },
   "0xf53cce164b2da5aa9a7fd79f8f1db4ba2d3700ac": {
-    "fetchedAt": "2026-07-07T04:38:44.946Z",
+    "fetchedAt": "2026-07-19T04:28:48.476Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-17T00:12:54.686554Z",
       "proxyWallet": "0xf53cce164b2da5aa9a7fd79f8f1db4ba2d3700ac",
       "displayUsernamePublic": true,
@@ -90918,9 +90990,10 @@
     }
   },
   "0xb0b5964329483fff1781a98674e8a02aad64e373": {
-    "fetchedAt": "2026-07-10T04:39:24.429Z",
+    "fetchedAt": "2026-07-19T04:28:48.958Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-01-03T10:48:19.11583Z",
       "proxyWallet": "0xb0b5964329483fff1781a98674e8a02aad64e373",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1800557-6e4b1365-eb31-4b82-b2e6-4a84e120b16c.png",
@@ -90939,7 +91012,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1854.974954
+      "weightedVolume": 1894.770755
     }
   },
   "0xd3a49cc825fbdca9068063c3ace55c56647b7958": {
@@ -91880,9 +91953,10 @@
     }
   },
   "0xd7c7b074b8505d2736b47ff21954bb2a73c92b48": {
-    "fetchedAt": "2026-07-11T04:25:25.396Z",
+    "fetchedAt": "2026-07-19T04:28:49.436Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-09T15:43:44.081677Z",
       "proxyWallet": "0xd7c7b074b8505d2736b47ff21954bb2a73c92b48",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3476576-ab0d84f1-3b29-4f2e-8c11-172fda5b123b.png",
@@ -93514,9 +93588,10 @@
     }
   },
   "0x734c9351bdb7e4ae00a449fe62a06c61b5971d86": {
-    "fetchedAt": "2026-07-10T04:39:24.450Z",
+    "fetchedAt": "2026-07-19T04:28:49.648Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-01T00:40:30.095754Z",
       "proxyWallet": "0x734c9351bdb7e4ae00a449fe62a06c61b5971d86",
       "displayUsernamePublic": true,
@@ -93534,7 +93609,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 908.307937
+      "weightedVolume": 184.333399
     }
   },
   "0x153302eb3db9e52b977f986518ab3413f057fc9b": {
@@ -93588,9 +93663,10 @@
     }
   },
   "0xf1dc55a789fe94f37df85128b19d71873bea5460": {
-    "fetchedAt": "2026-07-10T04:39:27.706Z",
+    "fetchedAt": "2026-07-19T04:28:49.849Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-04-24T05:32:07.322166Z",
       "proxyWallet": "0xf1dc55a789fe94f37df85128b19d71873bea5460",
       "displayUsernamePublic": true,
@@ -93608,7 +93684,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 656.248187
+      "weightedVolume": 555.709666
     }
   },
   "0x734b2c1558f9875ef5d754196f489b3999286d7a": {
@@ -94752,9 +94828,10 @@
     }
   },
   "0x49c40bd313d8599f54b62fff13324a790c4fbf77": {
-    "fetchedAt": "2026-07-10T04:39:21.437Z",
+    "fetchedAt": "2026-07-19T04:28:47.424Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-02-10T14:18:33.689342Z",
       "proxyWallet": "0x49c40bd313d8599f54b62fff13324a790c4fbf77",
       "displayUsernamePublic": true,
@@ -94773,7 +94850,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 8491.598892
+      "weightedVolume": 10600.326256
     }
   },
   "0xf0b2eda338875848c19c08820089e7f90b70189e": {
@@ -95322,9 +95399,10 @@
     }
   },
   "0x70af6a617d08d1ef827f8296e490b016baa25847": {
-    "fetchedAt": "2026-06-25T04:46:08.343Z",
+    "fetchedAt": "2026-07-19T04:28:47.938Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-07T20:00:09.385656Z",
       "proxyWallet": "0x70af6a617d08d1ef827f8296e490b016baa25847",
       "displayUsernamePublic": true,
@@ -95342,7 +95420,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1745.858455
+      "weightedVolume": 1389.403802
     }
   },
   "0xba1a44e6d115f6da5c3c77e0c06ae8b5d3292509": {
@@ -96465,9 +96543,10 @@
     }
   },
   "0x12202a47a8615777bc10605bad51465c4992741a": {
-    "fetchedAt": "2026-07-07T04:38:47.882Z",
+    "fetchedAt": "2026-07-19T04:28:49.637Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T21:29:09.879873Z",
       "proxyWallet": "0x12202a47a8615777bc10605bad51465c4992741a",
       "displayUsernamePublic": true,
@@ -96806,9 +96885,10 @@
     }
   },
   "0x744aa72759e883535fbe577ecd1e05fe3aa00ea8": {
-    "fetchedAt": "2026-06-25T04:46:09.287Z",
+    "fetchedAt": "2026-07-19T04:28:48.790Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-01T12:18:05.726769Z",
       "proxyWallet": "0x744aa72759e883535fbe577ecd1e05fe3aa00ea8",
       "displayUsernamePublic": true,
@@ -96826,13 +96906,14 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 7251.642366
+      "weightedVolume": 5261.878169
     }
   },
   "0x94b42c18fc33a90eb28af6976839baa624b6fa4e": {
-    "fetchedAt": "2026-07-11T04:25:23.181Z",
+    "fetchedAt": "2026-07-19T04:28:47.833Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-25T06:39:53.657094Z",
       "proxyWallet": "0x94b42c18fc33a90eb28af6976839baa624b6fa4e",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3738821-b378015a-a5b0-4993-8fa1-7437a4e32306.jpg",
@@ -96851,7 +96932,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1271.511441
+      "weightedVolume": 200.635948
     }
   },
   "0xd30a05f7bc6eb24f074921156fdc029871a6e9f5": {
@@ -97896,9 +97977,10 @@
     }
   },
   "0x676beea21ab056982393d704b8a08a40544e2d01": {
-    "fetchedAt": "2026-07-08T04:27:06.628Z",
+    "fetchedAt": "2026-07-19T04:28:47.799Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-22T07:56:17.969283Z",
       "proxyWallet": "0x676beea21ab056982393d704b8a08a40544e2d01",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3674910-cab444ab-d20d-4f99-862e-ccd9c0a4df91.jpg",
@@ -97917,7 +97999,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1343.086354
+      "weightedVolume": 210.744
     }
   },
   "0x51b6b460d57d90a797196e10c86b184db0c34783": {
@@ -98170,9 +98252,10 @@
     }
   },
   "0x1a870b36d507ccbfe8376573e1c9659607d820f1": {
-    "fetchedAt": "2026-07-06T04:48:22.147Z",
+    "fetchedAt": "2026-07-19T04:28:49.043Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-03T12:41:32.08686Z",
       "proxyWallet": "0x1a870b36d507ccbfe8376573e1c9659607d820f1",
       "displayUsernamePublic": true,
@@ -98183,14 +98266,15 @@
         {
           "id": "3425297",
           "creator": false,
-          "mod": false
+          "mod": false,
+          "communityMod": false
         }
       ],
       "xUsername": "EricChen921227",
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 351.21322
+      "weightedVolume": 409.756813
     }
   },
   "0x09e78506738e45f94619a70492fb47ced6dd312f": {
@@ -98763,9 +98847,10 @@
     }
   },
   "0x7fd9e8dbf171757fb1db81f8031797f820041fd8": {
-    "fetchedAt": "2026-07-11T04:25:23.239Z",
+    "fetchedAt": "2026-07-19T04:28:47.814Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-20T02:54:23.252738Z",
       "proxyWallet": "0x7fd9e8dbf171757fb1db81f8031797f820041fd8",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5310251-7eb764fd-330b-4831-8f9d-164f7561ac50.jpg",
@@ -99822,9 +99907,10 @@
     }
   },
   "0x173fd5385c94cb2d2733fa642ef4bdb5861769b0": {
-    "fetchedAt": "2026-07-11T04:25:22.702Z",
+    "fetchedAt": "2026-07-19T04:28:47.410Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-12-25T23:39:45.203364Z",
       "proxyWallet": "0x173fd5385c94cb2d2733fa642ef4bdb5861769b0",
       "displayUsernamePublic": true,
@@ -99969,9 +100055,10 @@
     }
   },
   "0x69e3edc42a5b0eb2ab905e71700c9b63461b0078": {
-    "fetchedAt": "2026-07-10T04:39:21.706Z",
+    "fetchedAt": "2026-07-19T04:28:47.436Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-09-20T10:14:23.112464Z",
       "proxyWallet": "0x69e3edc42a5b0eb2ab905e71700c9b63461b0078",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3368991-3ada667f-0077-4bc6-b242-0d8841fb71b4.png",
@@ -99990,7 +100077,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 9423.780178
+      "weightedVolume": 10295.343424
     }
   },
   "0xe92e48eedd15867056b51926a59aa524439f535d": {
@@ -100018,9 +100105,10 @@
     }
   },
   "0x6f3d548be152d896cb5732181c2f1333e041457e": {
-    "fetchedAt": "2026-07-11T04:25:22.825Z",
+    "fetchedAt": "2026-07-19T04:28:47.544Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-10-06T17:50:58.032891Z",
       "proxyWallet": "0x6f3d548be152d896cb5732181c2f1333e041457e",
       "displayUsernamePublic": true,
@@ -100607,9 +100695,10 @@
     }
   },
   "0x75e28b207a7a286082e939838d6473921f3c2ed0": {
-    "fetchedAt": "2026-07-08T04:27:05.224Z",
+    "fetchedAt": "2026-07-19T04:28:48.245Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-09-05T10:28:14.585302Z",
       "proxyWallet": "0x75e28b207a7a286082e939838d6473921f3c2ed0",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-734145-53b0edc2-5a92-4967-94bd-524f93adcb70.png",
@@ -100626,9 +100715,9 @@
       ],
       "xUsername": "M4SNYT0M",
       "verifiedBadge": false,
-      "takerTier": 0,
-      "takerTierName": "Tier 0",
-      "weightedVolume": 1798.613593
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 3381.756244
     }
   },
   "0x6fcda6cb7038e8a2e5e6cd6e1d44603754a18dd0": {
@@ -101197,9 +101286,10 @@
     }
   },
   "0x6686e400321592ef47d4936ef4bc89423ce8e11f": {
-    "fetchedAt": "2026-07-10T04:39:22.581Z",
+    "fetchedAt": "2026-07-19T04:28:48.376Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-02-10T07:31:21.725346Z",
       "proxyWallet": "0x6686e400321592ef47d4936ef4bc89423ce8e11f",
       "displayUsernamePublic": true,
@@ -101345,9 +101435,10 @@
     }
   },
   "0x6e612d34193234df1eabf5f3417d31b55cdba88a": {
-    "fetchedAt": "2026-07-10T04:39:22.510Z",
+    "fetchedAt": "2026-07-19T04:28:47.422Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-07-03T16:05:20.776907Z",
       "proxyWallet": "0x6e612d34193234df1eabf5f3417d31b55cdba88a",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-580829-0b09c2a0-f0a6-4c10-930d-7de51455d519.jpeg",
@@ -101367,7 +101458,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 3640.851717
+      "weightedVolume": 3772.576929
     }
   },
   "0x40592c5edac6476672049d5e593fcb59084d3371": {
@@ -101499,9 +101590,10 @@
     }
   },
   "0x17d363b2a2e656c24b3f3bd8e18317dced319147": {
-    "fetchedAt": "2026-07-07T04:38:44.795Z",
+    "fetchedAt": "2026-07-19T04:28:48.222Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-09T00:10:10.741851Z",
       "proxyWallet": "0x17d363b2a2e656c24b3f3bd8e18317dced319147",
       "displayUsernamePublic": true,
@@ -101519,7 +101611,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 3813.527745
+      "weightedVolume": 2653.199346
     }
   },
   "0x8c10f338ef2df6745cc15ee48c0048d3e80ded7d": {
@@ -102266,9 +102358,10 @@
     }
   },
   "0xa78f2fc79b71bdbf35652c8d2bc5972ab33f1905": {
-    "fetchedAt": "2026-07-04T04:31:33.899Z",
+    "fetchedAt": "2026-07-19T04:28:48.611Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-01-03T08:39:56.103455Z",
       "proxyWallet": "0xa78f2fc79b71bdbf35652c8d2bc5972ab33f1905",
       "displayUsernamePublic": true,
@@ -102286,7 +102379,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 202.129037
+      "weightedVolume": 251.603162
     }
   },
   "0x2cb2080a47fc87b21d40c02e6af700537b030896": {
@@ -102615,9 +102708,10 @@
     }
   },
   "0xe373e444f14eba7bbdea815fbc8572c806ea3736": {
-    "fetchedAt": "2026-07-04T04:31:34.348Z",
+    "fetchedAt": "2026-07-19T04:28:48.900Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-07T15:52:39.175219Z",
       "proxyWallet": "0xe373e444f14eba7bbdea815fbc8572c806ea3736",
       "displayUsernamePublic": true,
@@ -102635,7 +102729,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 780.396863
+      "weightedVolume": 1019.690167
     }
   },
   "0x3ec12f608dfaca2474f12947b12e334d4b99b009": {
@@ -103698,9 +103792,10 @@
     }
   },
   "0x5374e5292623b79fb68647d8ed891def0d1a952a": {
-    "fetchedAt": "2026-07-07T04:38:47.797Z",
+    "fetchedAt": "2026-07-19T04:28:49.613Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T20:28:56.778889Z",
       "proxyWallet": "0x5374e5292623b79fb68647d8ed891def0d1a952a",
       "displayUsernamePublic": true,
@@ -103722,9 +103817,10 @@
     }
   },
   "0x5aca56e5f991c9f44b8438e907631b3fcae0cad6": {
-    "fetchedAt": "2026-07-07T04:38:47.750Z",
+    "fetchedAt": "2026-07-19T04:28:49.582Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T10:48:20.760141Z",
       "proxyWallet": "0x5aca56e5f991c9f44b8438e907631b3fcae0cad6",
       "displayUsernamePublic": true,
@@ -103795,9 +103891,10 @@
     }
   },
   "0xe17a0bfb659a6058bbf39d25d55b4781c2abc6fb": {
-    "fetchedAt": "2026-07-07T04:38:47.856Z",
+    "fetchedAt": "2026-07-19T04:28:49.615Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-16T18:29:30.886031Z",
       "proxyWallet": "0xe17a0bfb659a6058bbf39d25d55b4781c2abc6fb",
       "displayUsernamePublic": true,
@@ -103819,9 +103916,10 @@
     }
   },
   "0x848da3164e3c7bbff8150f0070a1fa6a22e476c1": {
-    "fetchedAt": "2026-06-26T04:48:10.662Z",
+    "fetchedAt": "2026-07-19T04:28:49.701Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-15T18:13:43.092305Z",
       "proxyWallet": "0x848da3164e3c7bbff8150f0070a1fa6a22e476c1",
       "displayUsernamePublic": true,
@@ -103843,9 +103941,10 @@
     }
   },
   "0x282e95b4d2c214ab321f5f4e308cb1c813aa3eaa": {
-    "fetchedAt": "2026-07-07T04:38:47.898Z",
+    "fetchedAt": "2026-07-19T04:28:49.649Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T18:16:31.988922Z",
       "proxyWallet": "0x282e95b4d2c214ab321f5f4e308cb1c813aa3eaa",
       "displayUsernamePublic": true,
@@ -103891,9 +103990,10 @@
     }
   },
   "0x5ae0662abd87b70ab7d4f5e5a9bbf7d3c5404590": {
-    "fetchedAt": "2026-06-26T04:48:10.698Z",
+    "fetchedAt": "2026-07-19T04:28:49.658Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T14:40:51.297921Z",
       "proxyWallet": "0x5ae0662abd87b70ab7d4f5e5a9bbf7d3c5404590",
       "displayUsernamePublic": true,
@@ -103915,9 +104015,10 @@
     }
   },
   "0x8e5772a60fbe7880466429c73719dfe0845b6c04": {
-    "fetchedAt": "2026-06-26T04:48:10.706Z",
+    "fetchedAt": "2026-07-19T04:28:49.772Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-16T01:17:11.913116Z",
       "proxyWallet": "0x8e5772a60fbe7880466429c73719dfe0845b6c04",
       "displayUsernamePublic": true,
@@ -103964,9 +104065,10 @@
     }
   },
   "0x434612ae5894cf43ef23b6ae6211838c7a1d2241": {
-    "fetchedAt": "2026-06-26T04:48:10.775Z",
+    "fetchedAt": "2026-07-19T04:28:49.779Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-19T16:15:46.394444Z",
       "proxyWallet": "0x434612ae5894cf43ef23b6ae6211838c7a1d2241",
       "displayUsernamePublic": true,
@@ -104012,9 +104114,10 @@
     }
   },
   "0xe1360c054d215b48b90b46f7c094efe711eecace": {
-    "fetchedAt": "2026-06-26T04:48:10.813Z",
+    "fetchedAt": "2026-07-19T04:28:49.787Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T16:04:22.295124Z",
       "proxyWallet": "0xe1360c054d215b48b90b46f7c094efe711eecace",
       "displayUsernamePublic": true,
@@ -104036,9 +104139,10 @@
     }
   },
   "0xc3629c93ade971524ceb7bd192a8774a43a57f4f": {
-    "fetchedAt": "2026-06-26T04:48:10.813Z",
+    "fetchedAt": "2026-07-19T04:28:49.786Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-20T00:55:42.84923Z",
       "proxyWallet": "0xc3629c93ade971524ceb7bd192a8774a43a57f4f",
       "displayUsernamePublic": true,
@@ -104526,9 +104630,10 @@
     }
   },
   "0x9e1ac2a1abad54154b107ddcb2bb56df58cebaf0": {
-    "fetchedAt": "2026-06-27T04:40:11.524Z",
+    "fetchedAt": "2026-07-19T04:28:48.914Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2021-11-02T14:32:22.382Z",
       "proxyWallet": "0x9e1ac2a1abad54154b107ddcb2bb56df58cebaf0",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-56442-94302334-3e4c-4602-974d-5b1af70828d5.gif",
@@ -104548,7 +104653,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 357.769117
+      "weightedVolume": 336.085973
     }
   },
   "0xbbdc27a253d163c6da200719c7eeef316faf9da2": {
@@ -105299,9 +105404,10 @@
     }
   },
   "0x45372978b2d5f11aa0e40815c548542de61dfd02": {
-    "fetchedAt": "2026-07-08T04:27:05.370Z",
+    "fetchedAt": "2026-07-19T04:28:47.417Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2023-03-10T17:23:25.3Z",
       "proxyWallet": "0x45372978b2d5f11aa0e40815c548542de61dfd02",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-114333-62afb2a1-7067-46ac-9fe8-acf43ce02885.jpeg",
@@ -105321,7 +105427,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 7640.530594
+      "weightedVolume": 6492.453125
     }
   },
   "0x8e8d19fa8abb7a856bf347d33940667e88e2cdbc": {
@@ -107979,9 +108085,10 @@
     }
   },
   "0x6b2ac082c43459d255f8cdf2480023ab9f24b8c2": {
-    "fetchedAt": "2026-07-11T04:25:25.210Z",
+    "fetchedAt": "2026-07-19T04:28:49.286Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-04T10:23:40.002297Z",
       "proxyWallet": "0x6b2ac082c43459d255f8cdf2480023ab9f24b8c2",
       "displayUsernamePublic": true,
@@ -107999,7 +108106,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 29.188987
+      "weightedVolume": 314.700979
     }
   },
   "0xbb8426d1846ea6a3eaca9778575c3b6a60e5e711": {
@@ -108464,9 +108571,10 @@
     }
   },
   "0xb51c357c8648c51440aaf63331058090ef37502d": {
-    "fetchedAt": "2026-07-08T04:27:06.573Z",
+    "fetchedAt": "2026-07-19T04:28:49.096Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-09-26T07:32:50.840767Z",
       "proxyWallet": "0xb51c357c8648c51440aaf63331058090ef37502d",
       "displayUsernamePublic": true,
@@ -108484,7 +108592,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 17.6985
+      "weightedVolume": 6.8544
     }
   },
   "0xefa5ab06e3252dd8f3174b64383252b5c55224a6": {
@@ -109078,9 +109186,10 @@
     }
   },
   "0x11d145c7517d4b09f1df687e346d7e87a66d0b41": {
-    "fetchedAt": "2026-07-07T04:38:45.733Z",
+    "fetchedAt": "2026-07-19T04:28:48.629Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-08T02:41:13.432506Z",
       "proxyWallet": "0x11d145c7517d4b09f1df687e346d7e87a66d0b41",
       "displayUsernamePublic": true,
@@ -109099,7 +109208,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 10384.742098
+      "weightedVolume": 16040.127934
     }
   },
   "0xbf45983c22189a262edd0489eb11249eee5dc508": {
@@ -109903,9 +110012,10 @@
     }
   },
   "0x2b1713a32de9464fd78acf1b961060382ccafdbf": {
-    "fetchedAt": "2026-07-06T04:48:19.687Z",
+    "fetchedAt": "2026-07-19T04:28:48.276Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-20T22:32:35.791365Z",
       "proxyWallet": "0x2b1713a32de9464fd78acf1b961060382ccafdbf",
       "displayUsernamePublic": true,
@@ -109924,7 +110034,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2430.441705
+      "weightedVolume": 2914.241221
     }
   },
   "0x9a3b1884f19c6760ab3d326f9d9b0b3df0c2b968": {
@@ -110104,9 +110214,10 @@
     }
   },
   "0x476b0f069dc03644d1006ac912deb781d7b68a58": {
-    "fetchedAt": "2026-07-08T04:27:05.476Z",
+    "fetchedAt": "2026-07-19T04:28:48.214Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-02T07:27:35.625416Z",
       "proxyWallet": "0x476b0f069dc03644d1006ac912deb781d7b68a58",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1166876-83a465b5-e0b5-44f5-8200-89ff516a88b7.webp",
@@ -110125,7 +110236,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 3204.404846
+      "weightedVolume": 3808.094638
     }
   },
   "0x95444d9ef2fc1ec25340f66dabf1f8c27bb2826e": {
@@ -110300,9 +110411,10 @@
     }
   },
   "0xde77b451f9d30877e4bae50017844b80acb1004a": {
-    "fetchedAt": "2026-07-09T04:38:35.123Z",
+    "fetchedAt": "2026-07-19T04:28:48.098Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-04T08:36:46.053945Z",
       "proxyWallet": "0xde77b451f9d30877e4bae50017844b80acb1004a",
       "displayUsernamePublic": true,
@@ -110320,7 +110432,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 10206.125659
+      "weightedVolume": 6281.790272
     }
   },
   "0x555e921127b7396c2d4b30a8d3efab1a9c2064d4": {
@@ -111581,9 +111693,10 @@
     }
   },
   "0x7dde922b1125ef2519070e3088257f1771a471f5": {
-    "fetchedAt": "2026-07-06T04:48:22.091Z",
+    "fetchedAt": "2026-07-19T04:28:48.832Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-10-11T02:42:05.795296Z",
       "proxyWallet": "0x7dde922b1125ef2519070e3088257f1771a471f5",
       "displayUsernamePublic": true,
@@ -111601,7 +111714,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 262.206233
+      "weightedVolume": 351.972366
     }
   },
   "0x20daeb8c90c6d243a7147751d90825c979a8becf": {
@@ -112702,9 +112815,10 @@
     }
   },
   "0x111646be86b690561714182011e0b4c018e4e846": {
-    "fetchedAt": "2026-06-28T04:52:37.737Z",
+    "fetchedAt": "2026-07-19T04:28:49.379Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-03T10:31:56.133234Z",
       "proxyWallet": "0x111646be86b690561714182011e0b4c018e4e846",
       "displayUsernamePublic": true,
@@ -112722,7 +112836,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 6.878858
+      "weightedVolume": 5.832454
     }
   },
   "0x6da5ca5ebcc962013065e5788b3c64c3379c31a2": {
@@ -115058,9 +115172,10 @@
     }
   },
   "0x6ab1d71280ee198ad652c663cf9ed84d7bce54e1": {
-    "fetchedAt": "2026-06-29T04:56:41.382Z",
+    "fetchedAt": "2026-07-19T04:28:47.946Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-06-30T23:30:02.901777Z",
       "proxyWallet": "0x6ab1d71280ee198ad652c663cf9ed84d7bce54e1",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-575972-f98b2fbf-6db9-4606-a617-128b1b8113c5.webp",
@@ -115079,7 +115194,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 6796.095071
+      "weightedVolume": 7303.244945
     }
   },
   "0x9f65651c8498a253fb6c8345841aef06a4cd1679": {
@@ -117634,9 +117749,10 @@
     }
   },
   "0x724d4324c07d889f4c9221411a17d0f7b0206022": {
-    "fetchedAt": "2026-07-11T04:25:25.958Z",
+    "fetchedAt": "2026-07-19T04:28:49.753Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-01T03:56:18.128445Z",
       "proxyWallet": "0x724d4324c07d889f4c9221411a17d0f7b0206022",
       "displayUsernamePublic": true,
@@ -117654,7 +117770,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 83.215933
+      "weightedVolume": 106.803412
     }
   },
   "0x9ed741c599df96535a53d1a340482dccb86eb0a5": {
@@ -119483,9 +119599,10 @@
     }
   },
   "0x12c4003e7e01a1e7efb5a30181b63fa01027ff8c": {
-    "fetchedAt": "2026-07-11T04:25:23.809Z",
+    "fetchedAt": "2026-07-19T04:28:48.284Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-22T22:18:29.458453Z",
       "proxyWallet": "0x12c4003e7e01a1e7efb5a30181b63fa01027ff8c",
       "displayUsernamePublic": true,
@@ -119504,7 +119621,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 6574.752485
+      "weightedVolume": 9149.7913
     }
   },
   "0xed11148605464d06e24b9bfdeee5c773312a58dd": {
@@ -124236,9 +124353,10 @@
     }
   },
   "0x60e2f3e997617386b96cee57e1880196c472f378": {
-    "fetchedAt": "2026-07-09T04:38:54.344Z",
+    "fetchedAt": "2026-07-19T04:28:49.745Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-18T13:11:44.918726Z",
       "proxyWallet": "0x60e2f3e997617386b96cee57e1880196c472f378",
       "displayUsernamePublic": true,
@@ -124256,7 +124374,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 85.3366
+      "weightedVolume": 41.6566
     }
   },
   "0x6587e3fffc27212770add3b997ec89bb08ac4f63": {
@@ -124777,9 +124895,10 @@
     }
   },
   "0xa1e7f92b3ce4602f4058ee8fc6a6cb694dc568e0": {
-    "fetchedAt": "2026-07-01T04:54:15.594Z",
+    "fetchedAt": "2026-07-19T04:28:49.724Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-25T18:02:44.68537Z",
       "proxyWallet": "0xa1e7f92b3ce4602f4058ee8fc6a6cb694dc568e0",
       "displayUsernamePublic": true,
@@ -124797,7 +124916,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 190.822938
+      "weightedVolume": 1023.376089
     }
   },
   "0x7c366d7f59edb1dd8f6b121b9c446b2f47ed0e22": {
@@ -124929,9 +125048,10 @@
     }
   },
   "0x8f07e69500326820155e5bc25ec88049d62fe5ae": {
-    "fetchedAt": "2026-07-01T04:54:15.943Z",
+    "fetchedAt": "2026-07-19T04:28:47.550Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-01T10:27:00.314813Z",
       "proxyWallet": "0x8f07e69500326820155e5bc25ec88049d62fe5ae",
       "displayUsernamePublic": true,
@@ -124949,7 +125069,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 68.886648
+      "weightedVolume": 97.205848
     }
   },
   "0xbac9072f3e0adbad035a6fce1103ed4ac14aca59": {
@@ -126121,9 +126241,10 @@
     }
   },
   "0x03d882c1b72c8ffa52363b05013a42082082e73c": {
-    "fetchedAt": "2026-07-10T04:39:22.234Z",
+    "fetchedAt": "2026-07-19T04:28:48.144Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-08T16:09:38.487771Z",
       "proxyWallet": "0x03d882c1b72c8ffa52363b05013a42082082e73c",
       "displayUsernamePublic": true,
@@ -126141,7 +126262,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 10330.908698
+      "weightedVolume": 7301.223104
     }
   },
   "0x60347733300e9817f8f7ed736e1435af2c12b5fd": {
@@ -126169,9 +126290,10 @@
     }
   },
   "0x6e3699336d4aa540b7a41a03b48e52c27a362479": {
-    "fetchedAt": "2026-07-02T04:44:27.022Z",
+    "fetchedAt": "2026-07-19T04:28:49.711Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-14T09:15:58.274304Z",
       "proxyWallet": "0x6e3699336d4aa540b7a41a03b48e52c27a362479",
       "displayUsernamePublic": true,
@@ -126268,9 +126390,10 @@
     }
   },
   "0xbf043e5d601701ef31d9f9f6926f9ecc08d0ad65": {
-    "fetchedAt": "2026-07-10T04:39:21.860Z",
+    "fetchedAt": "2026-07-19T04:28:47.979Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-12-06T18:23:17.87939Z",
       "proxyWallet": "0xbf043e5d601701ef31d9f9f6926f9ecc08d0ad65",
       "displayUsernamePublic": true,
@@ -126288,7 +126411,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2173.445752
+      "weightedVolume": 3306.037901
     }
   },
   "0xf0577016ed62bb3e82165125abba75f4a2e4f531": {
@@ -126514,9 +126637,10 @@
     }
   },
   "0x10eef815dc58090226fded0762fa4189bac67b23": {
-    "fetchedAt": "2026-07-11T04:25:23.516Z",
+    "fetchedAt": "2026-07-19T04:28:48.361Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-06T13:10:11.761344Z",
       "proxyWallet": "0x10eef815dc58090226fded0762fa4189bac67b23",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4432920-e63bd3cd-acec-4b7e-9012-22e4ae510b43.png",
@@ -126536,7 +126660,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 548.016937
+      "weightedVolume": 460.439879
     }
   },
   "0x2f578e983bfce63208b317f36d531e7af9483e7a": {
@@ -126813,9 +126937,10 @@
     }
   },
   "0x2a0f490ed84a00c3bef353e0fc1728ac300cd336": {
-    "fetchedAt": "2026-07-11T04:25:23.572Z",
+    "fetchedAt": "2026-07-19T04:28:47.810Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-05-30T14:40:30.757801Z",
       "proxyWallet": "0x2a0f490ed84a00c3bef353e0fc1728ac300cd336",
       "displayUsernamePublic": true,
@@ -126833,7 +126958,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 9681.937729
+      "weightedVolume": 12228.725989
     }
   },
   "0xcde825dfffb2e335b26d090770eb00e3a8613e6f": {
@@ -128796,9 +128921,10 @@
     }
   },
   "0x2bcf3093daa922f7604d13708d6cd524c0f29ef1": {
-    "fetchedAt": "2026-07-10T04:39:24.423Z",
+    "fetchedAt": "2026-07-19T04:28:48.870Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-07T02:08:31.479946Z",
       "proxyWallet": "0x2bcf3093daa922f7604d13708d6cd524c0f29ef1",
       "displayUsernamePublic": true,
@@ -128816,7 +128942,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 30.495908
+      "weightedVolume": 67.180873
     }
   },
   "0xe054ea76c2c191f57462f5fbdf501cd63b0815f7": {
@@ -130488,9 +130614,10 @@
     }
   },
   "0xde175b83a9faacd85ac3504616a690a9548e17c1": {
-    "fetchedAt": "2026-07-11T04:25:24.688Z",
+    "fetchedAt": "2026-07-19T04:28:49.261Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-12-31T15:11:42.518173Z",
       "proxyWallet": "0xde175b83a9faacd85ac3504616a690a9548e17c1",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1760117-b46ad3bd-641a-454f-8352-234aa14be15d.jpg",
@@ -130510,13 +130637,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 530.155907
+      "weightedVolume": 524.327647
     }
   },
   "0xc9ad18bc5d11639af167cc879fbc1333e22e79d0": {
-    "fetchedAt": "2026-07-11T04:25:24.687Z",
+    "fetchedAt": "2026-07-19T04:28:47.550Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-01-13T13:25:57.207562Z",
       "proxyWallet": "0xc9ad18bc5d11639af167cc879fbc1333e22e79d0",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/aragorn_ee2ffd91-ef11-431b-86d3-212f559bf412_1736866585400.jpg",
@@ -130788,9 +130916,10 @@
     }
   },
   "0x5fc6fe2721bef3cdd69466f343f301c842a99561": {
-    "fetchedAt": "2026-07-10T04:39:26.743Z",
+    "fetchedAt": "2026-07-19T04:28:49.399Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-08T05:17:14.456738Z",
       "proxyWallet": "0x5fc6fe2721bef3cdd69466f343f301c842a99561",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3453467-c7edb94c-a97e-4d28-bdc9-2b1272fa463c.png",
@@ -130809,7 +130938,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 202.167187
+      "weightedVolume": 161.587218
     }
   },
   "0x851111092f381ca341365ecfb67f41aeb7151118": {
@@ -130937,9 +131066,10 @@
     }
   },
   "0x82d27ba7e054778928f76b960ba6d56b383fceca": {
-    "fetchedAt": "2026-07-11T04:25:25.343Z",
+    "fetchedAt": "2026-07-19T04:28:49.170Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-01T10:36:06.044189Z",
       "proxyWallet": "0x82d27ba7e054778928f76b960ba6d56b383fceca",
       "displayUsernamePublic": true,
@@ -131318,9 +131448,10 @@
     }
   },
   "0xb4fc42ee4807f9c88d8f4e85e51748dc5182d082": {
-    "fetchedAt": "2026-07-02T04:44:33.223Z",
+    "fetchedAt": "2026-07-19T04:28:47.553Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-31T04:18:34.420533Z",
       "proxyWallet": "0xb4fc42ee4807f9c88d8f4e85e51748dc5182d082",
       "displayUsernamePublic": true,
@@ -131339,7 +131470,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 0.918936
+      "weightedVolume": 19.628195
     }
   },
   "0xc717d27afa70758e2e8a31f8dfe5cd3470965712": {
@@ -132273,9 +132404,10 @@
     }
   },
   "0xc829e4bb10868dc8fc3520505b433c372bd1cad3": {
-    "fetchedAt": "2026-07-11T04:25:23.124Z",
+    "fetchedAt": "2026-07-19T04:28:47.709Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-28T12:01:42.364008Z",
       "proxyWallet": "0xc829e4bb10868dc8fc3520505b433c372bd1cad3",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3797839-de87aa74-4b3c-4871-8afc-978b6dcfdf96.jpg",
@@ -132295,7 +132427,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 4970.475626
+      "weightedVolume": 4592.299777
     }
   },
   "0xbfde5c88517a0b806f27f046b90f19d5fd778267": {
@@ -132745,9 +132877,10 @@
     }
   },
   "0x1486745e17c89d24c1458f68bd3de73ab05acef3": {
-    "fetchedAt": "2026-07-10T04:39:21.924Z",
+    "fetchedAt": "2026-07-19T04:28:48.123Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-14T16:13:07.911714Z",
       "proxyWallet": "0x1486745e17c89d24c1458f68bd3de73ab05acef3",
       "displayUsernamePublic": true,
@@ -132765,7 +132898,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 6715.047321
+      "weightedVolume": 3291.935574
     }
   },
   "0x6195eb7d02c7774586aa4df764d618daa82f2308": {
@@ -137464,9 +137597,10 @@
     }
   },
   "0xac8fcd246ffbd0b44a4b674a761ebcb3da243bc4": {
-    "fetchedAt": "2026-07-11T04:25:24.143Z",
+    "fetchedAt": "2026-07-19T04:28:49.192Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-07T04:13:06.131647Z",
       "proxyWallet": "0xac8fcd246ffbd0b44a4b674a761ebcb3da243bc4",
       "displayUsernamePublic": true,
@@ -137484,7 +137618,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 64.090298
+      "weightedVolume": 66.74811
     }
   },
   "0xdce0267e7abc6509648921d4528dc0628bed7260": {
@@ -137905,9 +138039,10 @@
     }
   },
   "0x046fa495e997b2c35ae445a014005a95ef3a0828": {
-    "fetchedAt": "2026-07-04T04:31:32.530Z",
+    "fetchedAt": "2026-07-19T04:28:48.745Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-14T04:56:11.545787Z",
       "proxyWallet": "0x046fa495e997b2c35ae445a014005a95ef3a0828",
       "displayUsernamePublic": true,
@@ -137925,7 +138060,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 656.514
+      "weightedVolume": 1565.281824
     }
   },
   "0x80d857e6f89125697c7bf8c4e0d9e1d8cc99bc23": {
@@ -142820,9 +142955,10 @@
     }
   },
   "0x77a6c1baf438ee8447959ea5a8c51a507c35a902": {
-    "fetchedAt": "2026-07-05T04:43:38.927Z",
+    "fetchedAt": "2026-07-19T04:28:47.679Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-11-13T14:01:11.247437Z",
       "proxyWallet": "0x77a6c1baf438ee8447959ea5a8c51a507c35a902",
       "displayUsernamePublic": true,
@@ -142840,7 +142976,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 8.245157
+      "weightedVolume": 1.625999
     }
   },
   "0x8612fd86adcc94a1a7fff4736d49deebab592fa6": {
@@ -143264,9 +143400,10 @@
     }
   },
   "0xc2aef27cc8b4f653bfad4dc32e59ac94642dc069": {
-    "fetchedAt": "2026-07-05T04:43:39.201Z",
+    "fetchedAt": "2026-07-19T04:28:48.214Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-18T04:52:54.762195Z",
       "proxyWallet": "0xc2aef27cc8b4f653bfad4dc32e59ac94642dc069",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3614784-5cac24aa-9465-45c4-8d34-085dc642a63c.png",
@@ -143285,7 +143422,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1924.094298
+      "weightedVolume": 1575.429907
     }
   },
   "0xd57dc1533a4d65ac0456c56cea84fd26fcd6f5d4": {
@@ -147983,9 +148120,10 @@
     }
   },
   "0x797ca62d399cefa85305a77f238707269ff32038": {
-    "fetchedAt": "2026-07-06T04:48:20.096Z",
+    "fetchedAt": "2026-07-19T04:28:48.337Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-21T02:47:32.823122Z",
       "proxyWallet": "0x797ca62d399cefa85305a77f238707269ff32038",
       "displayUsernamePublic": true,
@@ -147995,14 +148133,15 @@
         {
           "id": "3657154",
           "creator": false,
-          "mod": false
+          "mod": false,
+          "communityMod": false
         }
       ],
       "xUsername": "jihan_wu99041",
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2021.078471
+      "weightedVolume": 7189.533823
     }
   },
   "0x33c9ba582f748f08772b70425c069850c58076af": {
@@ -150051,9 +150190,10 @@
     }
   },
   "0x9b4ffd879c98615a706e127a3b9c7f7cef32ce1f": {
-    "fetchedAt": "2026-07-06T04:48:22.171Z",
+    "fetchedAt": "2026-07-19T04:28:49.086Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-15T20:05:57.827945Z",
       "proxyWallet": "0x9b4ffd879c98615a706e127a3b9c7f7cef32ce1f",
       "displayUsernamePublic": true,
@@ -152474,9 +152614,10 @@
     }
   },
   "0x87e5fe81f46cb7ec85fad2ad0013188daabf775f": {
-    "fetchedAt": "2026-07-06T04:48:24.037Z",
+    "fetchedAt": "2026-07-19T04:28:49.095Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-05-26T07:13:14.289213Z",
       "proxyWallet": "0x87e5fe81f46cb7ec85fad2ad0013188daabf775f",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8310347-6e47f8f6-1d69-4fc4-91a0-6a384ef7d513.png",
@@ -152495,7 +152636,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 4.939524
+      "weightedVolume": 9.319475
     }
   },
   "0xc3368f9cacde7f2643eb7de1197dc13ce29d3907": {
@@ -153086,9 +153227,10 @@
     }
   },
   "0x12dfe02f29fb3a737cbe423087f402ea4efd902e": {
-    "fetchedAt": "2026-07-07T04:38:44.150Z",
+    "fetchedAt": "2026-07-19T04:28:47.680Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-10-11T07:08:50.398087Z",
       "proxyWallet": "0x12dfe02f29fb3a737cbe423087f402ea4efd902e",
       "displayUsernamePublic": true,
@@ -153107,7 +153249,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 24.524649
+      "weightedVolume": 248.123293
     }
   },
   "0x655a4a3d769999ac7bed254fb9b80790d9338fad": {
@@ -155070,9 +155212,10 @@
     }
   },
   "0xb18f991d127baf35e09b09cec3dd459a44e54ef8": {
-    "fetchedAt": "2026-07-07T04:38:47.065Z",
+    "fetchedAt": "2026-07-19T04:28:49.579Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-12-12T15:14:54.587693Z",
       "proxyWallet": "0xb18f991d127baf35e09b09cec3dd459a44e54ef8",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567307-85eca384-2301-4e3e-9f75-2f404a878447.jpg",
@@ -155095,9 +155238,10 @@
     }
   },
   "0xdab4a377afb50a9717e35dd1341c17c920bd7b5a": {
-    "fetchedAt": "2026-07-07T04:38:47.128Z",
+    "fetchedAt": "2026-07-19T04:28:49.741Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-08-14T09:58:15.464945Z",
       "proxyWallet": "0xdab4a377afb50a9717e35dd1341c17c920bd7b5a",
       "displayUsernamePublic": true,
@@ -155978,9 +156122,10 @@
     }
   },
   "0x6eaf7294dc51f41631533ff9b6ff52ad17b1aeab": {
-    "fetchedAt": "2026-07-08T04:27:04.673Z",
+    "fetchedAt": "2026-07-19T04:28:49.487Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-03-18T12:18:12.899287Z",
       "proxyWallet": "0x6eaf7294dc51f41631533ff9b6ff52ad17b1aeab",
       "displayUsernamePublic": true,
@@ -155998,7 +156143,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 358.294489
+      "weightedVolume": 1866.798946
     }
   },
   "0x63cfba167b56b3b5d54a942438f4f8edc3708cf4": {
@@ -157392,9 +157537,10 @@
     }
   },
   "0x9e003cc429fd8e3d95ee78bead7ebf021151adf9": {
-    "fetchedAt": "2026-07-08T04:27:06.093Z",
+    "fetchedAt": "2026-07-19T04:28:49.877Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-30T00:24:39.737407Z",
       "proxyWallet": "0x9e003cc429fd8e3d95ee78bead7ebf021151adf9",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1499640-561770cf-321e-4907-9f30-7cdc715089ca.jpg",
@@ -157413,7 +157559,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 89.891785
+      "weightedVolume": 148.517925
     }
   },
   "0x882e3b3f40a9e6c8b597dffc72d0d87dc95be757": {
@@ -160048,9 +160194,10 @@
     }
   },
   "0x47ea84ae9eb0947c7784b22db0deda1119d968f8": {
-    "fetchedAt": "2026-07-09T04:38:35.509Z",
+    "fetchedAt": "2026-07-19T04:28:47.686Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-04T23:08:26.154377Z",
       "proxyWallet": "0x47ea84ae9eb0947c7784b22db0deda1119d968f8",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1218771-ffb1e810-0980-448b-aa50-ac5fc9207466.png",
@@ -160070,7 +160217,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 1.795238
+      "weightedVolume": 32.94231
     }
   },
   "0x928c3432e32541590178801c4ba2b76e6cfc331e": {
@@ -162047,9 +162194,10 @@
     }
   },
   "0xe7419b9f1d13325084a5f5a98a8ffc86381ca9d1": {
-    "fetchedAt": "2026-07-10T04:39:21.280Z",
+    "fetchedAt": "2026-07-19T04:28:47.881Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-01-30T19:09:11.219006Z",
       "proxyWallet": "0xe7419b9f1d13325084a5f5a98a8ffc86381ca9d1",
       "displayUsernamePublic": true,
@@ -162067,7 +162215,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 7009.63592
+      "weightedVolume": 8604.655172
     }
   },
   "0xb7789cfd218e39c580107c7b5d3e0dfca0a36492": {
@@ -168051,9 +168199,10 @@
     }
   },
   "0x943875ece784dc0d7c5bd136d363275616bbad81": {
-    "fetchedAt": "2026-07-11T04:25:22.699Z",
+    "fetchedAt": "2026-07-19T04:28:47.407Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-01-04T05:20:17.675158Z",
       "proxyWallet": "0x943875ece784dc0d7c5bd136d363275616bbad81",
       "displayUsernamePublic": true,
@@ -168069,9 +168218,9 @@
       ],
       "xUsername": "Basketdavid1",
       "verifiedBadge": false,
-      "takerTier": 2,
-      "takerTierName": "Silver",
-      "weightedVolume": 21075.229527
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 13817.542141
     }
   },
   "0xaa36d573a6fe7874ead959b987d0d6a920c8638e": {
@@ -168123,9 +168272,10 @@
     }
   },
   "0xf0f0840cdc0eafef011c0173544b1fde710d26ed": {
-    "fetchedAt": "2026-07-11T04:25:22.708Z",
+    "fetchedAt": "2026-07-19T04:28:48.364Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-06-11T23:01:14.010417Z",
       "proxyWallet": "0xf0f0840cdc0eafef011c0173544b1fde710d26ed",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-548724-dc349eba-dc1a-4571-a3c7-faae8bde1333.png",
@@ -168137,14 +168287,15 @@
         {
           "id": "548724",
           "creator": false,
-          "mod": false
+          "mod": false,
+          "communityMod": false
         }
       ],
       "xUsername": "goblinn1337",
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 14289.519517
+      "weightedVolume": 16902.647844
     }
   },
   "0x9de92bf941b25569fedf6c925f71331e0d04ee25": {
@@ -168634,9 +168785,10 @@
     }
   },
   "0x9d1bb6b6f3ac160d6444b729c58b8b7780739847": {
-    "fetchedAt": "2026-07-11T04:25:23.211Z",
+    "fetchedAt": "2026-07-19T04:28:47.818Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-31T09:19:20.715103Z",
       "proxyWallet": "0x9d1bb6b6f3ac160d6444b729c58b8b7780739847",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3867465-f6c34124-a5a7-4bae-8f85-713c511bf82d.jpeg",
@@ -169008,9 +169160,10 @@
     }
   },
   "0x716074dba7636e0c4061dc25349393148656cce2": {
-    "fetchedAt": "2026-07-11T04:25:23.543Z",
+    "fetchedAt": "2026-07-19T04:28:48.244Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-12-06T16:10:09.2403Z",
       "proxyWallet": "0x716074dba7636e0c4061dc25349393148656cce2",
       "displayUsernamePublic": true,
@@ -169028,7 +169181,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 4461.390408
+      "weightedVolume": 3210.282134
     }
   },
   "0xd24348dfb65e602c6b71a434160b61802b663398": {
@@ -169106,9 +169259,10 @@
     }
   },
   "0x371473617d3064ed904cde2df3e90ad1e0be9ce3": {
-    "fetchedAt": "2026-07-11T04:25:23.774Z",
+    "fetchedAt": "2026-07-19T04:28:47.668Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2024-11-05T12:54:14.217241Z",
       "proxyWallet": "0x371473617d3064ed904cde2df3e90ad1e0be9ce3",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1240088-903bb0b9-0f56-4447-bf8c-0cafadb4de20.png",
@@ -169128,7 +169282,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 80.121746
+      "weightedVolume": 67.189348
     }
   },
   "0xaee6695c387d5d982b2e114b720c32fa140f4ca9": {
@@ -169233,9 +169387,10 @@
     }
   },
   "0x835e9e43967117f719e7c9e11d0b51c294113036": {
-    "fetchedAt": "2026-07-11T04:25:23.940Z",
+    "fetchedAt": "2026-07-19T04:28:48.381Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-31T08:41:19.602073Z",
       "proxyWallet": "0x835e9e43967117f719e7c9e11d0b51c294113036",
       "displayUsernamePublic": true,
@@ -169251,9 +169406,9 @@
       ],
       "xUsername": "LinkedCloud",
       "verifiedBadge": false,
-      "takerTier": 0,
-      "takerTierName": "Tier 0",
-      "weightedVolume": 1842.951331
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 16364.565538
     }
   },
   "0xc35216fb6dd9cd214bec45ff21fa564aace4a152": {
@@ -169281,9 +169436,10 @@
     }
   },
   "0x15d1abaddc6b1dc54811e4f7253b722dae4dccfe": {
-    "fetchedAt": "2026-07-11T04:25:23.956Z",
+    "fetchedAt": "2026-07-19T04:28:48.371Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-05-13T14:15:36.164021Z",
       "proxyWallet": "0x15d1abaddc6b1dc54811e4f7253b722dae4dccfe",
       "displayUsernamePublic": true,
@@ -169301,7 +169457,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 10063.797285
+      "weightedVolume": 12819.801244
     }
   },
   "0x72ab720bc6883ff337c2983fb12d4c33c17dae61": {
@@ -169380,9 +169536,10 @@
     }
   },
   "0x1f2a5828a4f5f063b621372c75ed58173d4e46ba": {
-    "fetchedAt": "2026-07-11T04:25:23.993Z",
+    "fetchedAt": "2026-07-19T04:28:48.322Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-08-07T07:20:18.285223Z",
       "proxyWallet": "0x1f2a5828a4f5f063b621372c75ed58173d4e46ba",
       "displayUsernamePublic": true,
@@ -169400,7 +169557,7 @@
       "verifiedBadge": false,
       "takerTier": 1,
       "takerTierName": "Bronze",
-      "weightedVolume": 2646.003372
+      "weightedVolume": 6996.422468
     }
   },
   "0x5d709bdd485e86460fc1ac304a65edd6bcfb5044": {
@@ -169576,9 +169733,10 @@
     }
   },
   "0x5cebbb6cdcbb2483961e8d901bf47a46a6162bdf": {
-    "fetchedAt": "2026-07-11T04:25:24.142Z",
+    "fetchedAt": "2026-07-19T04:28:48.567Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2021-11-26T09:22:53.334Z",
       "proxyWallet": "0x5cebbb6cdcbb2483961e8d901bf47a46a6162bdf",
       "displayUsernamePublic": true,
@@ -169597,7 +169755,7 @@
       "verifiedBadge": false,
       "takerTier": 2,
       "takerTierName": "Silver",
-      "weightedVolume": 26016.476279
+      "weightedVolume": 43150.423811
     }
   },
   "0xd3ab43d3ff8d1f881606e51c24b4f71cdb989aa1": {
@@ -169697,9 +169855,10 @@
     }
   },
   "0x987f9b3e77fa04bd40dc08547304ea632c58b37d": {
-    "fetchedAt": "2026-07-11T04:25:24.463Z",
+    "fetchedAt": "2026-07-19T04:28:48.911Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-02-10T15:45:07.393591Z",
       "proxyWallet": "0x987f9b3e77fa04bd40dc08547304ea632c58b37d",
       "displayUsernamePublic": true,
@@ -169718,13 +169877,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 8.120899
+      "weightedVolume": 647.40367
     }
   },
   "0x701d52214a1920914edb871b34e30d23512dd115": {
-    "fetchedAt": "2026-07-11T04:25:24.531Z",
+    "fetchedAt": "2026-07-19T04:28:48.990Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-24T14:49:41.577728Z",
       "proxyWallet": "0x701d52214a1920914edb871b34e30d23512dd115",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3729615-a91032e0-5e81-4c7b-a587-ec62595e3ccb.jpg",
@@ -169743,7 +169903,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 144.153047
+      "weightedVolume": 653.0599
     }
   },
   "0x37390a0744c0ea871ab9f776a07499401629307f": {
@@ -170592,9 +170752,10 @@
     }
   },
   "0xb22cb1f5e0cb8cec50c3f510e5d3fde8263b8aad": {
-    "fetchedAt": "2026-07-11T04:25:25.077Z",
+    "fetchedAt": "2026-07-19T04:28:48.904Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2025-10-10T07:51:21.811041Z",
       "proxyWallet": "0xb22cb1f5e0cb8cec50c3f510e5d3fde8263b8aad",
       "displayUsernamePublic": true,
@@ -170612,7 +170773,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 245.009889
+      "weightedVolume": 492.690806
     }
   },
   "0x69e6251067ab42e5db357b9d231cebc59a8bc76c": {
@@ -170763,9 +170924,10 @@
     }
   },
   "0x563ea80ce1962ce0d1684fd38472eaef6b15a157": {
-    "fetchedAt": "2026-07-11T04:25:25.186Z",
+    "fetchedAt": "2026-07-19T04:28:47.718Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-12T12:41:33.069498Z",
       "proxyWallet": "0x563ea80ce1962ce0d1684fd38472eaef6b15a157",
       "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7386315-008bfeaf-103e-4379-ad38-7f566ecf6aef.png",
@@ -170784,13 +170946,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 114.507359
+      "weightedVolume": 1452.034046
     }
   },
   "0xe303a73c5d1afdc13c6f2f1e3b21d3403e520948": {
-    "fetchedAt": "2026-07-11T04:25:25.207Z",
+    "fetchedAt": "2026-07-19T04:28:49.428Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-30T14:30:47.621702Z",
       "proxyWallet": "0xe303a73c5d1afdc13c6f2f1e3b21d3403e520948",
       "displayUsernamePublic": true,
@@ -170808,13 +170971,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 22.514682
+      "weightedVolume": 68.512992
     }
   },
   "0xacb1d5358b340d417f85c08d83e6d396f6a57747": {
-    "fetchedAt": "2026-07-11T04:25:25.218Z",
+    "fetchedAt": "2026-07-19T04:28:49.467Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-30T15:54:17.737961Z",
       "proxyWallet": "0xacb1d5358b340d417f85c08d83e6d396f6a57747",
       "displayUsernamePublic": true,
@@ -170832,13 +170996,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 35.705714
+      "weightedVolume": 46.386247
     }
   },
   "0xe9c44c69464fc1a0493b2e5dba70ff83a726333f": {
-    "fetchedAt": "2026-07-11T04:25:25.246Z",
+    "fetchedAt": "2026-07-19T04:28:49.450Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-04T13:46:34.330407Z",
       "proxyWallet": "0xe9c44c69464fc1a0493b2e5dba70ff83a726333f",
       "displayUsernamePublic": true,
@@ -170856,13 +171021,14 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 47.878143
+      "weightedVolume": 60.823373
     }
   },
   "0x2031520a45dfc822974ee9879d1cbf125e8ebb0b": {
-    "fetchedAt": "2026-07-11T04:25:25.247Z",
+    "fetchedAt": "2026-07-19T04:28:49.471Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-03-30T15:31:25.082593Z",
       "proxyWallet": "0x2031520a45dfc822974ee9879d1cbf125e8ebb0b",
       "displayUsernamePublic": true,
@@ -170880,7 +171046,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 21.392724
+      "weightedVolume": 56.759429
     }
   },
   "0xeca5e702b7b21eea04c2c07016845819616ec94f": {
@@ -170908,9 +171074,10 @@
     }
   },
   "0xa674699dec0687f189e6716771e0e06fcef970c2": {
-    "fetchedAt": "2026-07-11T04:25:25.269Z",
+    "fetchedAt": "2026-07-19T04:28:49.432Z",
     "status": 200,
     "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
       "createdAt": "2026-04-04T14:41:51.690354Z",
       "proxyWallet": "0xa674699dec0687f189e6716771e0e06fcef970c2",
       "displayUsernamePublic": true,
@@ -170928,7 +171095,7 @@
       "verifiedBadge": false,
       "takerTier": 0,
       "takerTierName": "Tier 0",
-      "weightedVolume": 51.806061
+      "weightedVolume": 61.411823
     }
   },
   "0x52d6c2bef92f384c356c4967eddb57df56afeb20": {
@@ -190882,6 +191049,1670 @@
       "takerTier": 0,
       "takerTierName": "Tier 0",
       "weightedVolume": 2.378021
+    }
+  },
+  "0x189cbabcf06a9aca6521e6593267903e0136fea3": {
+    "fetchedAt": "2026-07-19T04:28:47.405Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-02-03T01:07:18.404548Z",
+      "proxyWallet": "0x189cbabcf06a9aca6521e6593267903e0136fea3",
+      "displayUsernamePublic": true,
+      "bio": "",
+      "pseudonym": "0x189cbabcf06a9aca6521e6593267903e0136fea3",
+      "name": "botyor92",
+      "users": [
+        {
+          "id": "119487",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "ahmadabotyor",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 2.030697
+    }
+  },
+  "0x5b1da62d04a662da31839a482092288ca7b03721": {
+    "fetchedAt": "2026-07-19T04:28:47.419Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-06-20T15:33:55.969335Z",
+      "proxyWallet": "0x5b1da62d04a662da31839a482092288ca7b03721",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8806800-d2be2b48-0791-458c-a051-4ed41eff531e.png",
+      "displayUsernamePublic": true,
+      "bio": "$Million coming on 20th July 2026 from 0000hrs to 0300hrs UTC+5 at FifaWorldCup 2026 Finale.",
+      "pseudonym": "Fond-Imprisonment-Broadcast",
+      "name": "CallMeMentalist",
+      "users": [
+        {
+          "id": "8806800",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "HashmiOmar",
+      "verifiedBadge": false,
+      "takerTier": 2,
+      "takerTierName": "Silver",
+      "weightedVolume": 70613.888259
+    }
+  },
+  "0x76f5ea30a95861c868d305df465d79cca3255eb9": {
+    "fetchedAt": "2026-07-19T04:28:47.546Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-17T08:06:13.877871Z",
+      "proxyWallet": "0x76f5ea30a95861c868d305df465d79cca3255eb9",
+      "displayUsernamePublic": true,
+      "pseudonym": "Flashy-Radiator",
+      "name": "Brdon",
+      "users": [
+        {
+          "id": "4135983",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "gawillisapps",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 36.001198
+    }
+  },
+  "0x6f3b6327969175e22109cfbac94ced908c0d4ae1": {
+    "fetchedAt": "2026-07-19T04:28:47.557Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-07T03:35:37.853592Z",
+      "proxyWallet": "0x6f3b6327969175e22109cfbac94ced908c0d4ae1",
+      "displayUsernamePublic": true,
+      "pseudonym": "Unruly-Gallon",
+      "name": "Samdhan",
+      "users": [
+        {
+          "id": "4016501",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "samdhan00",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 103.619608
+    }
+  },
+  "0x47f6c90d35a08f88d48f27199042aecab8288dd7": {
+    "fetchedAt": "2026-07-19T04:28:47.571Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-02-13T14:44:13.267989Z",
+      "proxyWallet": "0x47f6c90d35a08f88d48f27199042aecab8288dd7",
+      "displayUsernamePublic": true,
+      "pseudonym": "Immediate-Overview",
+      "name": "feilvini",
+      "users": [
+        {
+          "id": "5973945",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "HerbertNell3",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 7.235315
+    }
+  },
+  "0x7f67b51cef7cb94f499653dadfb4bda9eaab5bba": {
+    "fetchedAt": "2026-07-19T04:28:47.574Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-10-09T16:15:08.604824Z",
+      "proxyWallet": "0x7f67b51cef7cb94f499653dadfb4bda9eaab5bba",
+      "displayUsernamePublic": true,
+      "bio": "",
+      "pseudonym": "Stylish-Hydrolyze",
+      "name": "goodygoody",
+      "users": [
+        {
+          "id": "877410",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "LetchfordRenee",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 81.128889
+    }
+  },
+  "0x42c350020ae5d6ab81c073dbc426a55134c03e2b": {
+    "fetchedAt": "2026-07-19T04:28:47.689Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-02-28T15:31:24.222197Z",
+      "proxyWallet": "0x42c350020ae5d6ab81c073dbc426a55134c03e2b",
+      "displayUsernamePublic": true,
+      "bio": "lkiei1 000",
+      "pseudonym": "Necessary-Annual",
+      "name": "yuezheaa",
+      "users": [
+        {
+          "id": "6303105",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "PayneCarpenter2",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.605358
+    }
+  },
+  "0x75488ec17b6faa8712aa2f7d66fe579e84703f81": {
+    "fetchedAt": "2026-07-19T04:28:47.697Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-13T08:47:11.397754Z",
+      "proxyWallet": "0x75488ec17b6faa8712aa2f7d66fe579e84703f81",
+      "displayUsernamePublic": true,
+      "pseudonym": "Red-Influence",
+      "name": "0x75488Ec17B6FAa8712AA2F7d66fe579E84703f81-1763023630823",
+      "users": [
+        {
+          "id": "4093443",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "na2bh55756",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 16.907087
+    }
+  },
+  "0xf46fc1c78bea76cb6bd81c1357b7fcb18ce83196": {
+    "fetchedAt": "2026-07-19T04:28:47.698Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-09-10T08:38:48.826227Z",
+      "proxyWallet": "0xf46fc1c78bea76cb6bd81c1357b7fcb18ce83196",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-745215-02c6dafe-cade-4fc6-9be1-7daa2df50fdb.png",
+      "displayUsernamePublic": true,
+      "pseudonym": "Shocking-Explorer",
+      "name": "rgalyeon",
+      "users": [
+        {
+          "id": "745215",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "rgalyeon_",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 4.032
+    }
+  },
+  "0xcbfb524656f6a8539753288098025ea50871176e": {
+    "fetchedAt": "2026-07-19T04:28:47.821Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-26T14:06:36.478978Z",
+      "proxyWallet": "0xcbfb524656f6a8539753288098025ea50871176e",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3760526-9e0dd6c5-864a-487c-9822-a65306736da9.jpg",
+      "displayUsernamePublic": true,
+      "pseudonym": "Quarterly-Somewhere",
+      "name": "letgoogo",
+      "users": [
+        {
+          "id": "3760526",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "RaviJhaRJ3",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 354.062151
+    }
+  },
+  "0x5f716b88a6be9f09404661ebd63a6e88d9dc1016": {
+    "fetchedAt": "2026-07-19T04:28:47.836Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-04-10T13:09:23.821069Z",
+      "proxyWallet": "0x5f716b88a6be9f09404661ebd63a6e88d9dc1016",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2754729-0ea04f44-e395-46c2-9203-0fabcf1841b5.webp",
+      "displayUsernamePublic": true,
+      "bio": "Predictions and shit",
+      "pseudonym": "Hairy-Joey",
+      "name": "RavenBaxter",
+      "users": [
+        {
+          "id": "2754729",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "ravenbaxterpm",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 843.106112
+    }
+  },
+  "0x954e8bec4509e3a0b791fe4dc3fb50895567927f": {
+    "fetchedAt": "2026-07-19T04:28:47.854Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-19T22:41:26.320592Z",
+      "proxyWallet": "0x954e8bec4509e3a0b791fe4dc3fb50895567927f",
+      "displayUsernamePublic": true,
+      "pseudonym": "Complete-Airfield",
+      "name": "TheFutureBeckons",
+      "users": [
+        {
+          "id": "3641112",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "GigaCryptoChad",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 312.289084
+    }
+  },
+  "0x2849cded4b81e03b6d59611da2ba0f18996b3d49": {
+    "fetchedAt": "2026-07-19T04:28:47.948Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-28T08:10:45.866488Z",
+      "proxyWallet": "0x2849cded4b81e03b6d59611da2ba0f18996b3d49",
+      "displayUsernamePublic": true,
+      "bio": "",
+      "pseudonym": "Profitable-Mean",
+      "name": "hessian",
+      "users": [
+        {
+          "id": "3793468",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "hessiantrading",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 6566.9802
+    }
+  },
+  "0xffd0ca4460970a7041ac32b605fcb7f050ac93fc": {
+    "fetchedAt": "2026-07-19T04:28:47.958Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-29T12:41:11.951259Z",
+      "proxyWallet": "0xffd0ca4460970a7041ac32b605fcb7f050ac93fc",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3403424-ab921497-3b94-403f-933d-12036629c5be.jpg",
+      "displayUsernamePublic": true,
+      "pseudonym": "Antique-Familiar",
+      "name": "Unicorn-PM",
+      "users": [
+        {
+          "id": "3403424",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "UnicornSolana",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 1504.035489
+    }
+  },
+  "0x41c2cd3dfefc6e5aa5a55752728039a65646b6a5": {
+    "fetchedAt": "2026-07-19T04:28:47.963Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-03-31T18:54:13.637381Z",
+      "proxyWallet": "0x41c2cd3dfefc6e5aa5a55752728039a65646b6a5",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7112261-229e920e-9e5c-4732-a1fa-d04572a3e27b.png",
+      "displayUsernamePublic": true,
+      "bio": "Life is just a game.",
+      "pseudonym": "Valuable-Event-Transport",
+      "name": "M10N",
+      "users": [
+        {
+          "id": "7112261",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "maxvoyakin",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 7504.637257
+    }
+  },
+  "0xeaa1485be2540b7610ea0e93dda5f91212a090dd": {
+    "fetchedAt": "2026-07-19T04:28:47.978Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-04-21T22:16:57.225035Z",
+      "proxyWallet": "0xeaa1485be2540b7610ea0e93dda5f91212a090dd",
+      "displayUsernamePublic": true,
+      "pseudonym": "Spry-Nightlight",
+      "name": "icez",
+      "users": [
+        {
+          "id": "2789829",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "icez_11",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 411.503686
+    }
+  },
+  "0x74f2894acae552c7e752036d4d456b81c38b317c": {
+    "fetchedAt": "2026-07-19T04:28:48.013Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-04-23T00:18:21.883253Z",
+      "proxyWallet": "0x74f2894acae552c7e752036d4d456b81c38b317c",
+      "displayUsernamePublic": true,
+      "pseudonym": "Subtle-Serval",
+      "name": "cecuzzz",
+      "users": [
+        {
+          "id": "7588202",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "CecuzZYT",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 71.638418
+    }
+  },
+  "0x28ddf18a3ba021bdc0030b2546bb072ce265f376": {
+    "fetchedAt": "2026-07-19T04:28:48.058Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-05-10T15:02:04.981251Z",
+      "proxyWallet": "0x28ddf18a3ba021bdc0030b2546bb072ce265f376",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8005915-f53cec15-26dd-4ac6-a415-279551b74798.png",
+      "displayUsernamePublic": true,
+      "bio": "One day I gonna hit.\n\nYour key to perps: 00qx4x2j",
+      "pseudonym": "Tiny-Lounge",
+      "name": "tekkeN.eth",
+      "users": [
+        {
+          "id": "8005915",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "tekkeNero",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 46.682198
+    }
+  },
+  "0xc9658b12dec95ff702c9d24543e9b44ac2787725": {
+    "fetchedAt": "2026-07-19T04:28:48.091Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-02-21T09:18:21.818092Z",
+      "proxyWallet": "0xc9658b12dec95ff702c9d24543e9b44ac2787725",
+      "displayUsernamePublic": true,
+      "bio": "cadsaca adfsd",
+      "pseudonym": "Yummy-Kitchen",
+      "name": "GG46icnd",
+      "users": [
+        {
+          "id": "6141541",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "lamudio10867",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 15.11757
+    }
+  },
+  "0x0428776f3b242be5f8b47e052042e885c779f13f": {
+    "fetchedAt": "2026-07-19T04:28:48.092Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-29T07:19:07.444606Z",
+      "proxyWallet": "0x0428776f3b242be5f8b47e052042e885c779f13f",
+      "displayUsernamePublic": true,
+      "bio": "258",
+      "pseudonym": "Lonely-Hydraulics",
+      "name": "mjking",
+      "users": [
+        {
+          "id": "4292785",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Manoj009Mj",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 105.276135
+    }
+  },
+  "0x60d2ba878532e901eab7a88840d00678463e4268": {
+    "fetchedAt": "2026-07-19T04:28:48.098Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-03-12T10:59:04.91567Z",
+      "proxyWallet": "0x60d2ba878532e901eab7a88840d00678463e4268",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6655749-eaa96ccb-cab9-44d0-9efd-07c9ab262438.webp",
+      "displayUsernamePublic": true,
+      "bio": "",
+      "pseudonym": "Delightful-Plugin",
+      "name": "TheBlueWizard",
+      "users": [
+        {
+          "id": "6655749",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "AndreiSundakov",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 1581.696701
+    }
+  },
+  "0x45faecfb4b3e82c15bbf4068785aeac31d1e047f": {
+    "fetchedAt": "2026-07-19T04:28:48.111Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-02-10T06:27:42.688849Z",
+      "proxyWallet": "0x45faecfb4b3e82c15bbf4068785aeac31d1e047f",
+      "displayUsernamePublic": true,
+      "bio": "",
+      "pseudonym": "Enormous-Captor",
+      "name": "gg33uns",
+      "users": [
+        {
+          "id": "5889778",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "KelliJohns61908",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 14.490892
+    }
+  },
+  "0x12330ab02bf307c22e6b74c8b84500b986e8444a": {
+    "fetchedAt": "2026-07-19T04:28:48.140Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-12-13T16:09:12.266235Z",
+      "proxyWallet": "0x12330ab02bf307c22e6b74c8b84500b986e8444a",
+      "displayUsernamePublic": true,
+      "pseudonym": "Gifted-Retrospect",
+      "name": "Balikata",
+      "users": [
+        {
+          "id": "4550490",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "AbbieDidin",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 2958.269243
+    }
+  },
+  "0x3735678837f808882b6632fb0f0e9b42bb3aa418": {
+    "fetchedAt": "2026-07-19T04:28:48.173Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-05-17T17:45:24.742831Z",
+      "proxyWallet": "0x3735678837f808882b6632fb0f0e9b42bb3aa418",
+      "displayUsernamePublic": true,
+      "pseudonym": "White-Burial",
+      "name": "Hoole",
+      "users": [
+        {
+          "id": "8167922",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Hoole1997",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 868.423643
+    }
+  },
+  "0x3d6d82c42b11b0dd86f19f34daf1b390912e5144": {
+    "fetchedAt": "2026-07-19T04:28:48.207Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-16T04:56:38.297998Z",
+      "proxyWallet": "0x3d6d82c42b11b0dd86f19f34daf1b390912e5144",
+      "displayUsernamePublic": true,
+      "pseudonym": "Digital-Obsession",
+      "name": "laniu17",
+      "users": [
+        {
+          "id": "3588773",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "laniu17",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 6617.496153
+    }
+  },
+  "0x1f0c2057cda3790cc393358eb021715035548ae8": {
+    "fetchedAt": "2026-07-19T04:28:48.257Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-17T14:14:19.874132Z",
+      "proxyWallet": "0x1f0c2057cda3790cc393358eb021715035548ae8",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4139051-bb28d69f-6813-4ad9-b195-a05096d623d4.webp",
+      "displayUsernamePublic": true,
+      "pseudonym": "Stale-Outside",
+      "name": "nikaoverone",
+      "users": [
+        {
+          "id": "4139051",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "nikaoverone",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 90.374402
+    }
+  },
+  "0x03ea78e4bc84f613550db49b2ef9f30ab26abc49": {
+    "fetchedAt": "2026-07-19T04:28:48.259Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-05-15T18:31:00.701793Z",
+      "proxyWallet": "0x03ea78e4bc84f613550db49b2ef9f30ab26abc49",
+      "displayUsernamePublic": true,
+      "pseudonym": "Determined-Divan-Graft",
+      "name": "BNAI",
+      "users": [
+        {
+          "id": "8119946",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "bnai698759755",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 1494.404919
+    }
+  },
+  "0x78d07d3833af727cbe0a256ea9e5dbc66046a663": {
+    "fetchedAt": "2026-07-19T04:28:48.403Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-10-16T18:34:27.848924Z",
+      "proxyWallet": "0x78d07d3833af727cbe0a256ea9e5dbc66046a663",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-920239-cc7960d2-0c9e-441d-9374-0a4eb9ab847a.webp",
+      "displayUsernamePublic": true,
+      "bio": "Real Madrid at heart, variance in my veins. ⚽️ Crypto, sports, and well-placed bets.",
+      "pseudonym": "Cooperative-Accompanist",
+      "name": "ed.bu",
+      "users": [
+        {
+          "id": "920239",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Edbbbb13",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 540.091293
+    }
+  },
+  "0xaac2469db4c243a2931acc252967b171bd97e8ce": {
+    "fetchedAt": "2026-07-19T04:28:48.459Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-12-19T01:55:54.365812Z",
+      "proxyWallet": "0xaac2469db4c243a2931acc252967b171bd97e8ce",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4619398-44512d63-253b-4313-b7c8-0337c3b0f879.webp",
+      "displayUsernamePublic": true,
+      "pseudonym": "Tough-Hammer",
+      "name": "upont",
+      "users": [
+        {
+          "id": "4619398",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "williamwinata1",
+      "verifiedBadge": false,
+      "takerTier": 2,
+      "takerTierName": "Silver",
+      "weightedVolume": 76430.151218
+    }
+  },
+  "0x93a66d5162bf8ee534dc4745f757dc7b311eeb50": {
+    "fetchedAt": "2026-07-19T04:28:48.503Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-06-16T21:41:37.989801Z",
+      "proxyWallet": "0x93a66d5162bf8ee534dc4745f757dc7b311eeb50",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8715545-d678f5ac-751d-4331-a861-dc3e26ed7c73.png",
+      "displayUsernamePublic": true,
+      "pseudonym": "Humongous-Serial",
+      "name": "samkiannn",
+      "users": [
+        {
+          "id": "8715545",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Samkiannn",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 12087.753685
+    }
+  },
+  "0x983e05e6a84de4b09626365ee9628a44fb7de59c": {
+    "fetchedAt": "2026-07-19T04:28:48.507Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-12-19T05:13:10.441757Z",
+      "proxyWallet": "0x983e05e6a84de4b09626365ee9628a44fb7de59c",
+      "displayUsernamePublic": true,
+      "pseudonym": "Wiggly-Conditioner",
+      "name": "xindaa",
+      "users": [
+        {
+          "id": "1622040",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Tilda08495481",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.439849
+    }
+  },
+  "0xcc7ec3a40e7a2afe461e8100bb2ece96e82657e1": {
+    "fetchedAt": "2026-07-19T04:28:48.519Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-10-11T11:07:29.85994Z",
+      "proxyWallet": "0xcc7ec3a40e7a2afe461e8100bb2ece96e82657e1",
+      "displayUsernamePublic": true,
+      "bio": "web3",
+      "pseudonym": "Aggressive-Breadcrumb",
+      "name": "dol-644",
+      "users": [
+        {
+          "id": "888750",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "drtyg47314786",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 2.869998
+    }
+  },
+  "0x7f797862fb2f98c8ab0532d01f65d392c8366a79": {
+    "fetchedAt": "2026-07-19T04:28:48.521Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-10T06:15:13.473638Z",
+      "proxyWallet": "0x7f797862fb2f98c8ab0532d01f65d392c8366a79",
+      "displayUsernamePublic": true,
+      "pseudonym": "Ideal-Encounter",
+      "name": "manmaner",
+      "users": [
+        {
+          "id": "3487289",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "manman87640981",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.244843
+    }
+  },
+  "0x34c67a83c73208d77ebdf9aac68afd5429d2ec31": {
+    "fetchedAt": "2026-07-19T04:28:48.540Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-12-15T15:32:44.839375Z",
+      "proxyWallet": "0x34c67a83c73208d77ebdf9aac68afd5429d2ec31",
+      "displayUsernamePublic": true,
+      "pseudonym": "Rewarding-Placode",
+      "name": "DrPlanche",
+      "users": [
+        {
+          "id": "4574960",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "drplanche",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 463.096459
+    }
+  },
+  "0x0fdbdfef931bad8e65ea63245228c2139dc78417": {
+    "fetchedAt": "2026-07-19T04:28:48.541Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-02-01T23:23:44.761589Z",
+      "proxyWallet": "0x0fdbdfef931bad8e65ea63245228c2139dc78417",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5684388-bfa0c2cb-f027-4dd4-8a92-762ccbee54e0.jpeg",
+      "displayUsernamePublic": true,
+      "pseudonym": "Close-Locust",
+      "name": "Figo57",
+      "users": [
+        {
+          "id": "5684388",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "FigoPen",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 2784.936866
+    }
+  },
+  "0xc699c851b06058faeea2e9dc724fbe2428681401": {
+    "fetchedAt": "2026-07-19T04:28:48.586Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-06-27T16:40:30.669976Z",
+      "proxyWallet": "0xc699c851b06058faeea2e9dc724fbe2428681401",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3120744-45c16260-3488-46d5-9bbd-efa1f41caaf1.jpg",
+      "displayUsernamePublic": true,
+      "bio": "9353",
+      "pseudonym": "Ornate-Id",
+      "name": "harambe007",
+      "users": [
+        {
+          "id": "3120744",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "rhletsm",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 320.151647
+    }
+  },
+  "0x79adb71526c0dd7fa09e6a78c93ef0ad016cfbbc": {
+    "fetchedAt": "2026-07-19T04:28:48.758Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-03-14T04:56:10.771108Z",
+      "proxyWallet": "0x79adb71526c0dd7fa09e6a78c93ef0ad016cfbbc",
+      "displayUsernamePublic": true,
+      "pseudonym": "Babyish-Gene",
+      "name": "rumpakhfnkc",
+      "users": [
+        {
+          "id": "6694128",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "rumpakhfnkc",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 2049.18
+    }
+  },
+  "0x016114bb853ba04aba23a8c2a9bb62413b794225": {
+    "fetchedAt": "2026-07-19T04:28:48.760Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-04-20T09:06:35.997006Z",
+      "proxyWallet": "0x016114bb853ba04aba23a8c2a9bb62413b794225",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2784018.jpg",
+      "displayUsernamePublic": true,
+      "bio": "Time is silent, but it answers all questions and gives us the most real answers",
+      "pseudonym": "Advanced-Wife",
+      "name": "JianpingDai",
+      "users": [
+        {
+          "id": "2784018",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "JianpingDa47431",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 103.432425
+    }
+  },
+  "0x1eec8df6fab8ca63a4d3d0bd7852dbd3dfab5ca3": {
+    "fetchedAt": "2026-07-19T04:28:48.816Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-17T20:21:43.145233Z",
+      "proxyWallet": "0x1eec8df6fab8ca63a4d3d0bd7852dbd3dfab5ca3",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4141505-880498e8-9d2f-4ad8-a935-77eff506aea8.png",
+      "displayUsernamePublic": true,
+      "bio": "Fortune teller cat",
+      "pseudonym": "Flowery-Wetland",
+      "name": "zerachielo",
+      "users": [
+        {
+          "id": "4141505",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "zera_chielo",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 3383.282504
+    }
+  },
+  "0xfbccca8f1bcb51a174f285c28255931dc24aedbe": {
+    "fetchedAt": "2026-07-19T04:28:48.881Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-03T17:15:53.405311Z",
+      "proxyWallet": "0xfbccca8f1bcb51a174f285c28255931dc24aedbe",
+      "displayUsernamePublic": true,
+      "pseudonym": "These-Garb",
+      "name": "donshowzy",
+      "users": [
+        {
+          "id": "3946229",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "donshowzy",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 48.396771
+    }
+  },
+  "0xf7bd244b0b2e0f6f28f6025280d69a0f0f98802b": {
+    "fetchedAt": "2026-07-19T04:28:48.949Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2021-11-21T13:46:50.181Z",
+      "proxyWallet": "0xf7bd244b0b2e0f6f28f6025280d69a0f0f98802b",
+      "displayUsernamePublic": true,
+      "pseudonym": "Cluttered-Dude",
+      "name": "YSY1",
+      "users": [
+        {
+          "id": "60624",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Shunyu_Bitget",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0
+    }
+  },
+  "0x91a5a476688a347643294ec301c59b10d24763f6": {
+    "fetchedAt": "2026-07-19T04:28:48.954Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-01-03T10:33:06.249393Z",
+      "proxyWallet": "0x91a5a476688a347643294ec301c59b10d24763f6",
+      "displayUsernamePublic": true,
+      "pseudonym": "Automatic-Comb",
+      "name": "devD109",
+      "users": [
+        {
+          "id": "4818992",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "ChampWashi64009",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 2.737587
+    }
+  },
+  "0x99622013bbec8d6ebf09452d5369ff26e2cdb8e2": {
+    "fetchedAt": "2026-07-19T04:28:49.024Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-01-26T08:30:50.685508Z",
+      "proxyWallet": "0x99622013bbec8d6ebf09452d5369ff26e2cdb8e2",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5499263-1025cbf2-b918-4bbe-8f27-fb5053c40e02.png",
+      "displayUsernamePublic": true,
+      "pseudonym": "Same-Melody",
+      "name": "danhong26",
+      "users": [
+        {
+          "id": "5499263",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "danhongchen26",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 61.453586
+    }
+  },
+  "0x67f9fd65e9eb32a95957983e988ba50139c967d4": {
+    "fetchedAt": "2026-07-19T04:28:49.032Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-01-15T05:03:33.075152Z",
+      "proxyWallet": "0x67f9fd65e9eb32a95957983e988ba50139c967d4",
+      "displayUsernamePublic": true,
+      "pseudonym": "Meek-Easel",
+      "name": "0x67f9fd65E9eb32A95957983E988BA50139C967D4-1768453412545",
+      "users": [
+        {
+          "id": "5170752",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "j_pengikut",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 29.446062
+    }
+  },
+  "0x596ab4ed5128153f4a8e1b9908a444b43cdfaa14": {
+    "fetchedAt": "2026-07-19T04:28:49.097Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-11-19T20:27:14.113164Z",
+      "proxyWallet": "0x596ab4ed5128153f4a8e1b9908a444b43cdfaa14",
+      "displayUsernamePublic": true,
+      "pseudonym": "Bad-Pork",
+      "name": "Voron",
+      "users": [
+        {
+          "id": "1444930",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "0xVoron",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 2.436
+    }
+  },
+  "0x0b13415f05582b1cf859a11b868b2af6e16d52c8": {
+    "fetchedAt": "2026-07-19T04:28:49.142Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-20T10:03:05.348078Z",
+      "proxyWallet": "0x0b13415f05582b1cf859a11b868b2af6e16d52c8",
+      "displayUsernamePublic": true,
+      "bio": "wuwuwuwu666",
+      "pseudonym": "Helpless-Sorghum",
+      "name": "niuweiqi",
+      "users": [
+        {
+          "id": "3368973",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "dxvaz13963634",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.362034
+    }
+  },
+  "0xa9b0e11ffcbbddc39444ca78631ae39e18f87778": {
+    "fetchedAt": "2026-07-19T04:28:49.168Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-08T08:33:28.948432Z",
+      "proxyWallet": "0xa9b0e11ffcbbddc39444ca78631ae39e18f87778",
+      "displayUsernamePublic": true,
+      "pseudonym": "Faraway-Part",
+      "name": "monsterjane",
+      "users": [
+        {
+          "id": "3455207",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "StayrealLoL",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 102.703347
+    }
+  },
+  "0xfc8806a6caf986f12fcc63c6f3bc6ef39f32b7ee": {
+    "fetchedAt": "2026-07-19T04:28:49.172Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-11T00:25:30.06552Z",
+      "proxyWallet": "0xfc8806a6caf986f12fcc63c6f3bc6ef39f32b7ee",
+      "displayUsernamePublic": true,
+      "pseudonym": "Faint-Beanstalk",
+      "name": "MiTion",
+      "users": [
+        {
+          "id": "4067379",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Mi_Tion111",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 80.842998
+    }
+  },
+  "0x82ed61cfe9fdf4a1bd0894f55425c1e8690e75de": {
+    "fetchedAt": "2026-07-19T04:28:49.172Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2024-08-14T06:46:14.772785Z",
+      "proxyWallet": "0x82ed61cfe9fdf4a1bd0894f55425c1e8690e75de",
+      "displayUsernamePublic": true,
+      "pseudonym": "Sandy-Badge",
+      "name": "riftBlaze4",
+      "users": [
+        {
+          "id": "681310",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "ChristinaRgdhq",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 1.020126
+    }
+  },
+  "0x17e6c828bfb08d585ad141b9eab82196d28d7855": {
+    "fetchedAt": "2026-07-19T04:28:49.198Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-20T06:07:13.289018Z",
+      "proxyWallet": "0x17e6c828bfb08d585ad141b9eab82196d28d7855",
+      "displayUsernamePublic": true,
+      "bio": "wozhendefukenaquanshabi",
+      "pseudonym": "Heavenly-Fortnight",
+      "name": "linyinger",
+      "users": [
+        {
+          "id": "3368366",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "bzfcv58144172",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.670793
+    }
+  },
+  "0x3df785307338dbfde939a6c5e70644cb4c97c884": {
+    "fetchedAt": "2026-07-19T04:28:49.229Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-20T08:35:54.392584Z",
+      "proxyWallet": "0x3df785307338dbfde939a6c5e70644cb4c97c884",
+      "displayUsernamePublic": true,
+      "bio": "woyaobazoaxingle",
+      "pseudonym": "Miserable-Arcade",
+      "name": "sanjiaozhou",
+      "users": [
+        {
+          "id": "3368747",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "xszos94954599",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.256701
+    }
+  },
+  "0x126686186bea8fe4f7dd445da5fe369be4ceda02": {
+    "fetchedAt": "2026-07-19T04:28:49.231Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-19T09:05:54.15912Z",
+      "proxyWallet": "0x126686186bea8fe4f7dd445da5fe369be4ceda02",
+      "displayUsernamePublic": true,
+      "bio": "yaoyudaozhidede",
+      "pseudonym": "Giddy-Contribution",
+      "name": "niyuhang",
+      "users": [
+        {
+          "id": "3365721",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "tdxnw21652332",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.4324
+    }
+  },
+  "0x2e1885d8fc1b3363a37c37e1a81bcd11c8f8bcaf": {
+    "fetchedAt": "2026-07-19T04:28:49.234Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-09-20T01:22:20.95264Z",
+      "proxyWallet": "0x2e1885d8fc1b3363a37c37e1a81bcd11c8f8bcaf",
+      "displayUsernamePublic": true,
+      "bio": "yamieluobuyaoa",
+      "pseudonym": "Glass-Fork",
+      "name": "qiwendi",
+      "users": [
+        {
+          "id": "3367832",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "xbinx55226262",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.234602
+    }
+  },
+  "0x01799b8d9572b0e750bcfaaa952f21157658d39f": {
+    "fetchedAt": "2026-07-19T04:28:49.255Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-01-29T20:02:55.521641Z",
+      "proxyWallet": "0x01799b8d9572b0e750bcfaaa952f21157658d39f",
+      "displayUsernamePublic": true,
+      "pseudonym": "Those-Association",
+      "name": "TestProfile",
+      "users": [
+        {
+          "id": "2046013",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "Web3Gen0",
+      "verifiedBadge": false,
+      "takerTier": 1,
+      "takerTierName": "Bronze",
+      "weightedVolume": 7821.147555
+    }
+  },
+  "0x939a268a79a0c23fae196405c77a89540fca6379": {
+    "fetchedAt": "2026-07-19T04:28:49.311Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-03-25T07:51:09.781095Z",
+      "proxyWallet": "0x939a268a79a0c23fae196405c77a89540fca6379",
+      "displayUsernamePublic": true,
+      "pseudonym": "Muffled-Aggradation",
+      "name": "Barraoo232",
+      "users": [
+        {
+          "id": "6945819",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "DisneyGirls1999",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 9.15216
+    }
+  },
+  "0x7252ea9d430fbb0122a7a7e8dd5a40bdc3db2866": {
+    "fetchedAt": "2026-07-19T04:28:49.321Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-02T09:16:51.630675Z",
+      "proxyWallet": "0x7252ea9d430fbb0122a7a7e8dd5a40bdc3db2866",
+      "displayUsernamePublic": true,
+      "pseudonym": "Constant-Slash",
+      "name": "Blihe",
+      "users": [
+        {
+          "id": "3918762",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "kriskrieger2",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 4.773999
+    }
+  },
+  "0xdca593c3763673a10ec8b0b52495e1996bf6b3fb": {
+    "fetchedAt": "2026-07-19T04:28:49.322Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-04T10:44:24.50245Z",
+      "proxyWallet": "0xdca593c3763673a10ec8b0b52495e1996bf6b3fb",
+      "displayUsernamePublic": true,
+      "pseudonym": "Repentant-Sousaphone",
+      "name": "Nlsn",
+      "users": [
+        {
+          "id": "3959966",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "JoshuaJoiner9",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 4.321284
+    }
+  },
+  "0xfe2ad3fe2c45369fe372ba31c7cec8361a2eb4bc": {
+    "fetchedAt": "2026-07-19T04:28:49.348Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-01T12:11:10.68853Z",
+      "proxyWallet": "0xfe2ad3fe2c45369fe372ba31c7cec8361a2eb4bc",
+      "displayUsernamePublic": true,
+      "pseudonym": "Timely-Legislation",
+      "name": "Jeremm",
+      "users": [
+        {
+          "id": "3898534",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "LisaR39117995",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0.242
+    }
+  },
+  "0x41c3d27b35bef9d65d2848301a9975599b5e6d4f": {
+    "fetchedAt": "2026-07-19T04:28:49.350Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-02T08:51:11.431523Z",
+      "proxyWallet": "0x41c3d27b35bef9d65d2848301a9975599b5e6d4f",
+      "displayUsernamePublic": true,
+      "pseudonym": "Poor-Sky",
+      "name": "Kirktg",
+      "users": [
+        {
+          "id": "3918315",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "lois_pegg",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 19.031643
+    }
+  },
+  "0x2e68e4d078ea872873cb9be5e9cf67766e1954bd": {
+    "fetchedAt": "2026-07-19T04:28:49.360Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-03T07:39:28.808172Z",
+      "proxyWallet": "0x2e68e4d078ea872873cb9be5e9cf67766e1954bd",
+      "displayUsernamePublic": true,
+      "pseudonym": "Standard-Participation",
+      "name": "Harleny",
+      "users": [
+        {
+          "id": "3937388",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "JTilkens",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 1.909544
+    }
+  },
+  "0x902be670596c6d9026d953fa3587f8b8f72ab8c6": {
+    "fetchedAt": "2026-07-19T04:28:49.372Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-11T12:34:16.667268Z",
+      "proxyWallet": "0x902be670596c6d9026d953fa3587f8b8f72ab8c6",
+      "displayUsernamePublic": true,
+      "pseudonym": "Chief-Drake",
+      "name": "Susanj",
+      "users": [
+        {
+          "id": "4073539",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "h3exzMfX5JtuT5S",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 10.452001
+    }
+  },
+  "0x3d35cf5586ce651e746c7bf9b40ba3da839d23c1": {
+    "fetchedAt": "2026-07-19T04:28:49.521Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-12-19T15:32:15.354429Z",
+      "proxyWallet": "0x3d35cf5586ce651e746c7bf9b40ba3da839d23c1",
+      "displayUsernamePublic": true,
+      "pseudonym": "Uncommon-Cathedral",
+      "name": "techniqueless",
+      "users": [
+        {
+          "id": "4626817",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "gokhan01kr",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 344.908562
+    }
+  },
+  "0x354c547984ab6a04a35b607cfd3479b8a39bb301": {
+    "fetchedAt": "2026-07-19T04:28:49.616Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-11-14T12:13:23.056034Z",
+      "proxyWallet": "0x354c547984ab6a04a35b607cfd3479b8a39bb301",
+      "displayUsernamePublic": true,
+      "pseudonym": "Excitable-Replica",
+      "name": "web1ers",
+      "users": [
+        {
+          "id": "4106942",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "BrandaceA65630",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0
+    }
+  },
+  "0x43ee787444556bd86bedcfdde8bd71df36a81947": {
+    "fetchedAt": "2026-07-19T04:28:49.791Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2025-10-14T03:05:27.371538Z",
+      "proxyWallet": "0x43ee787444556bd86bedcfdde8bd71df36a81947",
+      "displayUsernamePublic": true,
+      "pseudonym": "Sniveling-Loggia",
+      "name": "yukixyz",
+      "users": [
+        {
+          "id": "3558652",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "yukilxzy",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 0
+    }
+  },
+  "0x017d93a5d6d1ea00d9eb21716aa856f9b6b38bad": {
+    "fetchedAt": "2026-07-19T04:28:49.836Z",
+    "status": 200,
+    "profile": {
+      "$schema": "https://gamma-api.polymarket.com/schemas/PublicProfileResponse.json",
+      "createdAt": "2026-01-15T13:39:50.373808Z",
+      "proxyWallet": "0x017d93a5d6d1ea00d9eb21716aa856f9b6b38bad",
+      "displayUsernamePublic": true,
+      "pseudonym": "Gullible-Subroutine",
+      "name": "0x017D93A5D6d1ea00d9Eb21716Aa856F9b6b38BAd-1768484391139",
+      "users": [
+        {
+          "id": "5181189",
+          "creator": false,
+          "mod": false,
+          "communityMod": false
+        }
+      ],
+      "xUsername": "AlassDorin48670",
+      "verifiedBadge": false,
+      "takerTier": 0,
+      "takerTierName": "Tier 0",
+      "weightedVolume": 279.960934
     }
   }
 }
